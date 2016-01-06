@@ -1,0 +1,1633 @@
+[{
+  "title": "アップルストアの「Lucky Bag」、2016年は発売せず",
+  "description": "理由は「全世界で均質なサービスを提供するという目的のため」。",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://image.itmedia.co.jp/pcuser/articles/1512/26/tm_1512_Apple_01.jpg",
+  "publishedAt": "2015-12-26T09:47:14.000Z",
+  "createdAt": "2015-12-26T13:15:03.787Z",
+  "updatedAt": "2015-12-26T13:15:03.787Z",
+  "socialScore": {
+    "facebook": 89,
+    "twitter": 0,
+    "hatebu": 11,
+    "pocket": 16,
+    "score": 116,
+    "meta": {
+      "nextSearchTime": 1451290808758,
+      "previousScore": 70,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T13:20:09.851Z",
+    "updatedAt": "2015-12-27T08:20:08.758Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.itmedia.co.jp",
+    "importedAt": "2015-12-26T13:15:03.787Z",
+    "canonicalUrl": "http://www.itmedia.co.jp/pcuser/articles/1512/26/news031.html",
+    "ogUrl": "http://www.itmedia.co.jp/pcuser/articles/1512/26/news031.html",
+    "ogTitle": "アップルストアの「Lucky Bag」、2016年は発売せず",
+    "ogDescription": "理由は「全世界で均質なサービスを提供するという目的のため」。",
+    "ogImage": "http://image.itmedia.co.jp/pcuser/articles/1512/26/tm_1512_Apple_01.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 200,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipod",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567e92db623ac17f5feb96f7"
+}, {
+  "title": "Relight - Better Photos on the App Store",
+  "description": "Read reviews, compare customer ratings, see screenshots and learn more about Relight - Better Photos. Download Relight - Better Photos and enjoy it on your iPhone, iPad and iPod touch.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "http://is5.mzstatic.com/image/thumb/Purple69/v4/dc/96/d0/dc96d094-da68-ca02-8f63-f3eaea311016/source/1200x630bf.jpg",
+  "publishedAt": "2015-12-27T09:36:30.000Z",
+  "createdAt": "2015-12-27T10:15:05.689Z",
+  "updatedAt": "2015-12-27T10:15:05.689Z",
+  "socialScore": {
+    "facebook": 3,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 0,
+    "score": 3,
+    "meta": {
+      "nextSearchTime": 1451233204829,
+      "previousScore": null,
+      "currentIntervalMin": 360,
+      "repeatCount": 1
+    },
+    "createdAt": "2015-12-27T10:20:04.829Z",
+    "updatedAt": "2015-12-27T10:20:04.829Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "itunes.apple.com",
+    "importedAt": "2015-12-27T10:15:05.689Z",
+    "canonicalUrl": "https://itunes.apple.com/in/app/relight-better-photos/id1055538670?mt=8",
+    "ogUrl": null,
+    "ogTitle": "Relight - Better Photos on the App Store",
+    "ogDescription": "Read reviews, compare customer ratings, see screenshots and learn more about Relight - Better Photos. Download Relight - Better Photos and enjoy it on your iPhone, iPad and iPod touch.",
+    "ogImage": "http://is5.mzstatic.com/image/thumb/Purple69/v4/dc/96/d0/dc96d094-da68-ca02-8f63-f3eaea311016/source/1200x630bf.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 350,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 3,
+      "inTitle": false,
+      "inDescription": true
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": true
+    }, {
+      "word": "ipod",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567fba2bf5375ed73eb9347a"
+}, {
+  "title": "50%OFF：KORGのiOSアプリ半額セールは明日まで［12月27日版］セール・新着アプリ情報",
+  "description": "App Storeで公開されているiPhone・iPod touch・iPad向けのアプリの中から、値下げ中および新着をチェックし、お勧めのアプリのみを厳選してご紹介します。 価格は掲載時のもので、既に変更されている場合があります。 ダウンロード前に再度ご確認をお願いします。  セール中のアプリ KORG iDS-10 for iPhone  ミュージック：63.2 MB ￥2,400 → ¥1,200  2008年にニンテンドーDS用に発売され人気を集めた「KORG DS-10」を、iPhone向けに進化・移植したアプリ。［動画］    KORG iM1   ミュージック：85.6 MB ￥3,600 → ¥1,800  ミュージック・ワークステーション「M1」を完全再現したアプリ。［動画］    KORG Module for iPhone  ミュージック：1252.5 MB ￥2,400 → ¥1,800 iPhone向けの高品位モバイル音源アプリ。    KORG Module for iPad   ミュージック：1220.7 MB ￥4,800 → ¥2,400  iPad向けの高品位モバイル音源アプリ。［動画］    KORG Gadget for iPad   ミュージック：359.5 MB ￥4,800 → ¥2,400  15個のモバイルシンセサイザー・ドラムマシンをコレクションを収録。自由に組み合わせることができる音楽製作スタジオ。    KORG iPolysix   ミュージック：30.4 MB ￥ → ¥1,800  ポリフォニック・シンセの名機「Polysix」をアプリで再現。    KORG iELECTRIBE for iPhone  ミュージック：73.5 MB ￥2,400 → ¥1,200  KORGのリズムマシン「ELECTRIBE・R」のiPhone向けアプリ。リリース記念セールは明日9/30まで。［動画］    KORG iELECTRIBE for iPad   ミュージック：34.6 MB ￥2,400 → ¥1,200  KORGのバーチャル・アナログ・ビートボックス。［動画］    KORG iKaossilator",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://i1.wp.com/touchlab.jp/wp-content/uploads/2015/12/app_sale_2015_12_27.jpg?fit=1074%2C483",
+  "publishedAt": "2015-12-26T23:03:28.000Z",
+  "createdAt": "2015-12-26T23:15:06.884Z",
+  "updatedAt": "2015-12-26T23:15:06.884Z",
+  "socialScore": {
+    "facebook": 12,
+    "twitter": 0,
+    "hatebu": 2,
+    "pocket": 34,
+    "score": 48,
+    "meta": {
+      "nextSearchTime": 1451238609537,
+      "previousScore": 4,
+      "currentIntervalMin": 720,
+      "repeatCount": 2
+    },
+    "createdAt": "2015-12-26T23:20:04.741Z",
+    "updatedAt": "2015-12-27T05:50:09.538Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "touchlab.jp",
+    "importedAt": "2015-12-26T23:15:06.884Z",
+    "canonicalUrl": "http://touchlab.jp/2015/12/iphone-ipad-app-sale-20151227/",
+    "ogUrl": "http://touchlab.jp/2015/12/iphone-ipad-app-sale-20151227/",
+    "ogTitle": "50%OFF：KORGのiOSアプリ半額セールは明日まで［12月27日版］セール・新着アプリ情報",
+    "ogDescription": "App Storeで公開されているiPhone・iPod touch・iPad向けのアプリの中から、値下げ中および新着をチェックし、お勧めのアプリのみを厳選してご紹介します。 価格は掲載時のもので、既に変更されている場合があります。 ダウンロード前に再度ご確認をお願いします。  セール中のアプリ KORG iDS-10 for iPhone  ミュージック：63.2 MB ￥2,400 → ¥1,200  2008年にニンテンドーDS用に発売され人気を集めた「KORG DS-10」を、iPhone向けに進化・移植したアプリ。［動画］    KORG iM1   ミュージック：85.6 MB￥ 3,600→¥ 1,800 ミュージック・ ワークステーション「 M1」 を完全再現したアプリ。［ 動画］  KORG Module for iPhone ミュージック： 1252.5 MB￥ 2,400→¥ 1,800 iPhone向けの高品位モバイル音源アプリ。  KORG Module for iPad ミュージック： 1220.7 MB￥ 4,800→¥ 2,400 iPad向けの高品位モバイル音源アプリ。［ 動画］  KORG Gadget for iPad ミュージック： 359.5 MB￥ 4,800→¥ 2,400 15 個のモバイルシンセサイザー・ ドラムマシンをコレクションを収録。 自由に組み合わせることができる音楽製作スタジオ。  KORG iPolysix ミュージック： 30.4 MB￥→¥ 1,800 ポリフォニック・ シンセの名機「 Polysix」 をアプリで再現。  KORG iELECTRIBE for iPhone ミュージック： 73.5 MB￥ 2,400→¥ 1,200 KORGのリズムマシン「 ELECTRIBE・ R」 のiPhone向けアプリ。 リリース記念セールは明日9 / 30 まで。［ 動画］  KORG iELECTRIBE for iPad ミュージック： 34.6 MB￥ 2,400→¥ 1,200 KORGのバーチャル・ アナログ・ ビートボックス。［ 動画］  KORG iKaossilator ",
+    "ogImage": "http://i1.wp.com/touchlab.jp/wp-content/uploads/2015/12/app_sale_2015_12_27.jpg?fit=1074%2C483",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 1300,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 14,
+      "inTitle": false,
+      "inDescription": true
+    }, {
+      "word": "ipod",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": true
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 10,
+      "inTitle": false,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }, {
+    "weight": 225,
+    "reliability": 225,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 1,
+      "inTitle": true,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000057"
+  }],
+  "numPins": 0,
+  "id": "567f1f7cb39c0b0a50ab7f31"
+}, {
+  "title": "好きな文字をiPhoneのホーム画面に並べられる『iPhoneLetters』",
+  "description": "ちょっとした企画に使えるかも？と思ったのでご紹介。 iPhoneLettersを使えば、あなたのiPhoneに好きな文字を並べられるようだ。 つまるところウェブクリップアイコンを追加していくだけなのだが、アイデア次第でいろいろ使えるのではなかろうか。 自分の名前を並べてみたり、スワイプで次々にメッセージが出るようにしてみたり。 使い方も簡単なので覚えておいてもいいですな。  iPhoneLetters  好きな文字をiPhoneのホーム画面に並べられるツール。   管理人の独り言 『さーて』 年末年始の予定も固まりつつありますな。ちょいと遠出してみたいところである。 今日の運動記録 ないかなー。",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://www.100shiki.com/docs/201512/27_logo.gif",
+  "publishedAt": "2015-12-27T02:41:02.000Z",
+  "createdAt": "2015-12-27T03:15:04.417Z",
+  "updatedAt": "2015-12-27T03:15:04.417Z",
+  "socialScore": {
+    "facebook": 3,
+    "twitter": 0,
+    "hatebu": 5,
+    "pocket": 36,
+    "score": 44,
+    "meta": {
+      "nextSearchTime": 1451253009311,
+      "previousScore": 15,
+      "currentIntervalMin": 720,
+      "repeatCount": 2
+    },
+    "createdAt": "2015-12-27T03:20:05.241Z",
+    "updatedAt": "2015-12-27T09:50:09.311Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.100shiki.com",
+    "importedAt": "2015-12-27T03:15:04.417Z",
+    "canonicalUrl": "http://www.100shiki.com/archives/2015/12/iphoneletters.html",
+    "ogUrl": "http://www.100shiki.com/archives/2015/12/iphoneletters.html",
+    "ogTitle": "好きな文字をiPhoneのホーム画面に並べられる『iPhoneLetters』",
+    "ogDescription": "ちょっとした企画に使えるかも？と思ったのでご紹介。 iPhoneLettersを使えば、あなたのiPhoneに好きな文字を並べられるようだ。 つまるところウェブクリップアイコンを追加していくだけなのだが、アイデア次第でいろいろ使えるのではなかろうか。 自分の名前を並べてみたり、スワイプで次々にメッセージが出るようにしてみたり。 使い方も簡単なので覚えておいてもいいですな。  iPhoneLetters http://www.iphoneletters.com/ 好きな文字をiPhoneのホーム画面に並べられるツール。   管理人の独り言 『さーて』 年末年始の予定も固まりつつありますな。ちょいと遠出してみたいところである。 今日の運動記録 ないかなー。 ",
+    "ogImage": "http://www.100shiki.com/docs/201512/27_logo.gif",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 450,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 3,
+      "inTitle": true,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567f57b9d37277b57c860b9f"
+}, {
+  "title": "【iPhone 7】ボディは1～2ミリ薄くなり、4インチモデルがお目見えする!?",
+  "description": "iPhone 7に関する、海外メディアの報道 　iPhone 6sが発売されて3カ月しかたってないのに、もうiPhone 7のウワサが広がっている。コンセプトデ…",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://www.cyzo.com/assets_c/2015/12/ip07xs-thumb-300x300-71394.jpg",
+  "publishedAt": "2015-12-26T11:36:57.000Z",
+  "createdAt": "2015-12-26T15:15:04.436Z",
+  "updatedAt": "2015-12-26T15:15:04.436Z",
+  "socialScore": {
+    "facebook": 16,
+    "twitter": 0,
+    "hatebu": 3,
+    "pocket": 18,
+    "score": 37,
+    "meta": {
+      "nextSearchTime": 1451298006620,
+      "previousScore": 27,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T15:20:10.062Z",
+    "updatedAt": "2015-12-27T10:20:06.620Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.cyzo.com",
+    "importedAt": "2015-12-26T15:15:04.436Z",
+    "canonicalUrl": "http://www.cyzo.com/2015/12/post_25675.html",
+    "ogUrl": "http://www.cyzo.com/2015/12/post_25675.html",
+    "ogTitle": "【iPhone 7】ボディは1～2ミリ薄くなり、4インチモデルがお目見えする!?　 - 日刊サイゾー",
+    "ogDescription": "iPhone 7に関する、海外メディアの報道 　iPhone 6sが発売されて3カ月しかたってないのに、もうiPhone 7のウワサが広がっている。コンセプトデ…",
+    "ogImage": "http://www.cyzo.com/assets_c/2015/12/ip07xs-thumb-300x300-71394.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 900,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 6,
+      "inTitle": true,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567eaefa394911c774698bba"
+}, {
+  "title": "仕事が終わらないのでiPhoneのケースでも探そうかな。。。",
+  "description": "あーーーーーー仕事楽しぃ〜＼(^o^)／ YKZ48から電話あり、差し入れの牡蠣ありで充実した土曜でしたよ。 昼行く時間も勿体無いので届いたばかりの牡蠣を網焼きしておりやすpic.twitter.com / uWlG8LvSE6— アソーf(@afrebull) 2015,12 月 26 忙しいのは構わないけど、 今回の土日出勤はこちらに利がないんです。 クリスマスプレゼントも当然の如くもらえず、 電気屋の福袋を欲しいと伝えたら「 自分の玉袋でもいじってろ」 と言われてしまったので万事休すー てな訳で、 リフレッシュがてらiPhoneケースを探してました（ ヌキペロ） aso.hatenablog.com… ",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://cdn-ak.f.st-hatena.com/images/fotolife/f/f-aso/20151226/20151226182022.jpg",
+  "publishedAt": "2015-12-26T15:19:07.000Z",
+  "createdAt": "2015-12-26T16:45:03.904Z",
+  "updatedAt": "2015-12-26T16:45:03.904Z",
+  "socialScore": {
+    "facebook": 1,
+    "twitter": 0,
+    "hatebu": 10,
+    "pocket": 11,
+    "score": 22,
+    "meta": {
+      "nextSearchTime": 1451303406739,
+      "previousScore": 16,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T16:50:08.890Z",
+    "updatedAt": "2015-12-27T11:50:06.739Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "aso.hatenablog.com",
+    "importedAt": "2015-12-26T16:45:03.904Z",
+    "canonicalUrl": "http://aso.hatenablog.com/entry/iPhone-case2015",
+    "ogUrl": "http://aso.hatenablog.com/entry/iPhone-case2015",
+    "ogTitle": "仕事が終わらないのでiPhoneのケースでも探そうかな。。。 - さよなら自分",
+    "ogDescription": "あーーーーーー仕事楽しぃ〜＼(^o^)／ YKZ48から電話あり、差し入れの牡蠣ありで充実した土曜でしたよ。 昼行く時間も勿体無いので届いたばかりの牡蠣を網焼きしておりやす pic.twitter.com/uWlG8LvSE6— アソーf (@afrebull) 2015, 12月 26 忙しいのは構わないけど、今回の土日出勤はこちらに利がないんです。クリスマスプレゼントも当然の如くもらえず、電気屋の福袋を欲しいと伝えたら「自分の玉袋でもいじってろ」と言われてしまったので万事休すー てな訳で、リフレッシュがてらiPhoneケースを探してました（ヌキペロ） aso.hatenablog.com …",
+    "ogImage": "http://cdn-ak.f.st-hatena.com/images/fotolife/f/f-aso/20151226/20151226182022.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 1050,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 7,
+      "inTitle": true,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567ec4138513cdd30592037e"
+}, {
+  "title": "【iPhone】メモを無料アプリの登録ができるウィッシュリストとして使う方法",
+  "description": "iPhoneのApp Storeには、アプリのほしいものリスト（ウィッシュリスト）を作る機能がありますが、有料アプリしか登録することが出来ず、セールなどで無料になったアプリを登録することは出来ません。 その為、外出先で値下げによって無料にな...",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://sbapp.net/wp-content/uploads/2015/12/cat-117.png",
+  "publishedAt": "2015-12-27T02:14:36.000Z",
+  "createdAt": "2015-12-27T02:45:08.269Z",
+  "updatedAt": "2015-12-27T02:45:08.269Z",
+  "socialScore": {
+    "facebook": 7,
+    "twitter": 0,
+    "hatebu": 19,
+    "pocket": 41,
+    "score": 67,
+    "meta": {
+      "nextSearchTime": 1451251208789,
+      "previousScore": 8,
+      "currentIntervalMin": 720,
+      "repeatCount": 2
+    },
+    "createdAt": "2015-12-27T02:50:05.290Z",
+    "updatedAt": "2015-12-27T09:20:08.789Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "sbapp.net",
+    "importedAt": "2015-12-27T02:45:08.269Z",
+    "canonicalUrl": "http://sbapp.net/appnews/app/upinfo/ios9/wishlist-39569",
+    "ogUrl": "http://sbapp.net/appnews/app/upinfo/ios9/wishlist-39569",
+    "ogTitle": "【iPhone】メモを無料アプリの登録ができるウィッシュリストとして使う方法",
+    "ogDescription": "iPhoneのApp Storeには、アプリのほしいものリスト（ウィッシュリスト）を作る機能がありますが、有料アプリしか登録することが出来ず、セールなどで無料になったアプリを登録することは出来ません。 その為、外出先で値下げによって無料にな...",
+    "ogImage": "http://sbapp.net/wp-content/uploads/2015/12/cat-117.png",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 850,
+    "reliability": 200,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 5,
+      "inTitle": true,
+      "inDescription": true
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }, {
+    "weight": 300,
+    "reliability": 75,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 4,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000057"
+  }],
+  "numPins": 0,
+  "id": "567f50b4a47f670577690477"
+}, {
+  "title": "多言語対応。fastlane の snapshot で iOS アプリのスクリーンショットを自動的に作成する。 swiftで。",
+  "description": "iOS アプリのデリバリを自動的に行う、[fastlane]( というフレームワークがあります。 AppStore への自動デプロイなど、超便利な機能がたくさんありますが、そ...",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+  "publishedAt": "2015-12-26T09:58:31.000Z",
+  "createdAt": "2015-12-26T10:15:05.120Z",
+  "updatedAt": "2015-12-26T10:15:05.120Z",
+  "socialScore": {
+    "facebook": 0,
+    "twitter": 0,
+    "hatebu": 3,
+    "pocket": 5,
+    "score": 8,
+    "meta": {
+      "nextSearchTime": 1451280007885,
+      "previousScore": 4,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T10:20:04.520Z",
+    "updatedAt": "2015-12-27T05:20:07.885Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "qiita.com",
+    "importedAt": "2015-12-26T10:15:05.120Z",
+    "canonicalUrl": "http://qiita.com/ytyng/items/71b4c2f3a9615d3ff8f6",
+    "ogUrl": "http://qiita.com/ytyng/items/71b4c2f3a9615d3ff8f6",
+    "ogTitle": "多言語対応。fastlane の snapshot で iOS アプリのスクリーンショットを自動的に作成する。 swiftで。 - Qiita",
+    "ogDescription": "iOS アプリのデリバリを自動的に行う、[fastlane](https://github.com/fastlane/) というフレームワークがあります。\n\nAppStore への自動デプロイなど、超便利な機能がたくさんありますが、そ...",
+    "ogImage": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 1125,
+    "reliability": 225,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 5,
+      "inTitle": true,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000057"
+  }, {
+    "weight": 300,
+    "reliability": 100,
+    "label": {
+      "en": "Xcode",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "xcode",
+      "reliability": 100,
+      "count": 3,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000145"
+  }, {
+    "weight": 250,
+    "reliability": 100,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 4,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567e68aa7c93a6b23ff0998a"
+}, {
+  "title": "iPhone水没から奇跡の復活！水没対策完全マニュアル【保存版】",
+  "description": "※緊急の方は目次から水没緊急時用チャートをご覧ください みなさんこんにちは、Ichiです。iPhone復活した！ いやはや、水没したときはどうしようかと思いましたよ。でも、最悪の事態も考えて焦らずに対処したら大丈夫でした。この記事が、同じように困っている方の役に立てばと思っています。 目次 目次 私の水没事例紹介 iPhone水没時の対策 カバーを外す 水分をふき取る 電源を切る simカードを外す 乾燥させる （リバイバフォンを使用する） ①非正規修理店に持っていく ②正規修理店に持っていく ③キャリアショップで機種変更する 水没に備えるために バックアップをとる 防水シールを貼る 水没緊急…",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://cdn-ak.f.st-hatena.com/images/fotolife/i/ibookwormer/20151126/20151126102925.jpg",
+  "publishedAt": "2015-12-27T06:34:36.000Z",
+  "createdAt": "2015-12-27T11:15:04.583Z",
+  "updatedAt": "2015-12-27T11:15:04.583Z",
+  "socialScore": {
+    "facebook": 0,
+    "twitter": 0,
+    "hatebu": 4,
+    "pocket": 1,
+    "score": 5,
+    "meta": {
+      "nextSearchTime": 1451236805286,
+      "previousScore": null,
+      "currentIntervalMin": 360,
+      "repeatCount": 1
+    },
+    "createdAt": "2015-12-27T11:20:05.286Z",
+    "updatedAt": "2015-12-27T11:20:05.286Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.life-abstract.com",
+    "importedAt": "2015-12-27T11:15:04.583Z",
+    "canonicalUrl": "http://www.life-abstract.com/entry/2015/12/27/150000",
+    "ogUrl": "http://www.life-abstract.com/entry/2015/12/27/150000",
+    "ogTitle": "iPhone水没から奇跡の復活！水没対策完全マニュアル【保存版】 - Abstract Life",
+    "ogDescription": "※緊急の方は目次から水没緊急時用チャートをご覧ください みなさんこんにちは、Ichiです。iPhone復活した！ いやはや、水没したときはどうしようかと思いましたよ。でも、最悪の事態も考えて焦らずに対処したら大丈夫でした。この記事が、同じように困っている方の役に立てばと思っています。 目次 目次 私の水没事例紹介 iPhone水没時の対策 カバーを外す 水分をふき取る 電源を切る simカードを外す 乾燥させる （リバイバフォンを使用する） ①非正規修理店に持っていく ②正規修理店に持っていく ③キャリアショップで機種変更する 水没に備えるために バックアップをとる 防水シールを貼る 水没緊急…",
+    "ogImage": "http://cdn-ak.f.st-hatena.com/images/fotolife/i/ibookwormer/20151126/20151126102925.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 4650,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 31,
+      "inTitle": true,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }, {
+    "weight": 150,
+    "reliability": 75,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000057"
+  }, {
+    "weight": 20,
+    "reliability": 10,
+    "label": {
+      "en": "Youtube",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "youtube",
+      "reliability": 10,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000147"
+  }],
+  "numPins": 0,
+  "id": "567fc83ad6bf7f8747311ce7"
+}, {
+  "title": "iOS - 広告用のバナー領域をAutoLayoutを使って確保する - Qiita",
+  "description": "無料アプリには、画面の下に広告バナーを表示するものがあります。このバナーは画面の向きが縦の時と横の時で高さが異なることがあります。そんな広告用のバナー領域をAutoLayoutを使って実現する方法について説明します。 # 完成イメ...",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+  "publishedAt": "2015-12-26T14:38:33.000Z",
+  "createdAt": "2015-12-26T14:45:05.243Z",
+  "updatedAt": "2015-12-26T14:45:05.243Z",
+  "socialScore": {
+    "facebook": 0,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 3,
+    "score": 3,
+    "meta": {
+      "nextSearchTime": 1451296208729,
+      "previousScore": 1,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T14:50:06.118Z",
+    "updatedAt": "2015-12-27T09:50:08.729Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "qiita.com",
+    "importedAt": "2015-12-26T14:45:05.243Z",
+    "canonicalUrl": "http://qiita.com/nakaken0629/items/432a5a0bb48d14cd7365",
+    "ogUrl": "http://qiita.com/nakaken0629/items/432a5a0bb48d14cd7365",
+    "ogTitle": "iOS - 広告用のバナー領域をAutoLayoutを使って確保する - Qiita",
+    "ogDescription": "\n無料アプリには、画面の下に広告バナーを表示するものがあります。このバナーは画面の向きが縦の時と横の時で高さが異なることがあります。そんな広告用のバナー領域をAutoLayoutを使って実現する方法について説明します。\n\n# 完成イメ...",
+    "ogImage": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 225,
+    "reliability": 225,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 1,
+      "inTitle": true,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000057"
+  }, {
+    "weight": 200,
+    "reliability": 100,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 3,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567ea7f22f05865a6f2561a5"
+}, {
+  "title": "HTML - スクロールしたら2段目だけついてくる2段メニューを作る - Qiita",
+  "description": "小ネタ的な内容ですが、スクロールしたら2段目だけついてくるメニューの作り方のメモです。 [iPhone6sの公式サイト]( #...",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+  "publishedAt": "2015-12-27T08:32:12.000Z",
+  "createdAt": "2015-12-27T08:45:04.666Z",
+  "updatedAt": "2015-12-27T08:45:04.666Z",
+  "socialScore": {
+    "facebook": 0,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 0,
+    "score": 0,
+    "meta": {
+      "nextSearchTime": 1451227811013,
+      "previousScore": null,
+      "currentIntervalMin": 360,
+      "repeatCount": 1
+    },
+    "createdAt": "2015-12-27T08:50:11.013Z",
+    "updatedAt": "2015-12-27T08:50:11.013Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "qiita.com",
+    "importedAt": "2015-12-27T08:45:04.666Z",
+    "canonicalUrl": "http://qiita.com/saitoxu/items/b85d9c780f7c50bef57e",
+    "ogUrl": "http://qiita.com/saitoxu/items/b85d9c780f7c50bef57e",
+    "ogTitle": "HTML - スクロールしたら2段目だけついてくる2段メニューを作る - Qiita",
+    "ogDescription": "小ネタ的な内容ですが、スクロールしたら2段目だけついてくるメニューの作り方のメモです。\n[iPhone6sの公式サイト](http://www.apple.com/jp/iphone-6s/)にあるメニューのようなイメージです。\n\n#...",
+    "ogImage": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 150,
+    "reliability": 75,
+    "label": {
+      "en": "HTML",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "html",
+      "reliability": 25,
+      "count": 2,
+      "inTitle": true,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000051"
+  }, {
+    "weight": 100,
+    "reliability": 50,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567fa511da33a7af31f624b8"
+}, {
+  "title": "iOS - iPhoneの設定アプリにライブラリのライセンスを表示するようにする - Qiita",
+  "description": "# 前書き 使用したライブラリのライセンスをどこかに記述しなければならないけど、アプリのコンテンツ内部には入れたくない、などなんらかの理由でiPhoneの設定アプリに謝辞を表示するときの方法を書きます。 シミュレータにデフォルトで...",
+  "lang": "ja",
+  "type": 0,
+  "thumbnailUrl": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+  "publishedAt": "2015-12-27T09:36:47.000Z",
+  "createdAt": "2015-12-27T09:45:04.413Z",
+  "updatedAt": "2015-12-27T09:45:04.413Z",
+  "socialScore": {
+    "facebook": 0,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 0,
+    "score": 0,
+    "meta": {
+      "nextSearchTime": 1451231406420,
+      "previousScore": null,
+      "currentIntervalMin": 360,
+      "repeatCount": 1
+    },
+    "createdAt": "2015-12-27T09:50:06.420Z",
+    "updatedAt": "2015-12-27T09:50:06.420Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "qiita.com",
+    "importedAt": "2015-12-27T09:45:04.413Z",
+    "canonicalUrl": "http://qiita.com/akatsuki174/items/392cb3be619fabfa4608",
+    "ogUrl": "http://qiita.com/akatsuki174/items/392cb3be619fabfa4608",
+    "ogTitle": "iOS - iPhoneの設定アプリにライブラリのライセンスを表示するようにする - Qiita",
+    "ogDescription": "# 前書き\n\n使用したライブラリのライセンスをどこかに記述しなければならないけど、アプリのコンテンツ内部には入れたくない、などなんらかの理由でiPhoneの設定アプリに謝辞を表示するときの方法を書きます。\n\nシミュレータにデフォルトで...",
+    "ogImage": "http://cdn.qiita.com/assets/qiita-fb-a1b4a208593dbf5743d68ed2a86e63b5.png",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 450,
+    "reliability": 225,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 2,
+      "inTitle": true,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000057"
+  }, {
+    "weight": 450,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 3,
+      "inTitle": true,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567fb3226cfccd853a81afc0"
+}, {
+  "title": "My Must-Have iOS Apps, 2015 Edition",
+  "description": "Over the past year, I've gone all-in with iOS. Following years of experiments, struggles to switch from a Mac-centric workflow, and encouraging signs of maturity from the platform, I chose to make the iPad my primary computer. I used the iPad Air 2 more than any other iOS device before, and the iPad Pro is […]",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2015-12-21-145348.jpeg",
+  "publishedAt": "2015-12-27T05:02:41.000Z",
+  "createdAt": "2015-12-27T08:45:06.236Z",
+  "updatedAt": "2015-12-27T08:45:06.236Z",
+  "socialScore": {
+    "facebook": 408,
+    "twitter": 0,
+    "hatebu": 3,
+    "pocket": 3802,
+    "score": 4213,
+    "meta": {
+      "nextSearchTime": 1451227804772,
+      "previousScore": null,
+      "currentIntervalMin": 360,
+      "repeatCount": 1
+    },
+    "createdAt": "2015-12-27T08:50:04.772Z",
+    "updatedAt": "2015-12-27T08:50:04.772Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.macstories.net",
+    "importedAt": "2015-12-27T08:45:06.236Z",
+    "canonicalUrl": "https://www.macstories.net/roundups/my-must-have-ios-apps-2015-edition/",
+    "ogUrl": "https://www.macstories.net/roundups/my-must-have-ios-apps-2015-edition/",
+    "ogTitle": "My Must-Have iOS Apps, 2015 Edition",
+    "ogDescription": "Over the past year, I've gone all-in with iOS. Following years of experiments, struggles to switch from a Mac-centric workflow, and encouraging signs of maturity from the platform, I chose to make the iPad my primary computer. I used the iPad Air 2 more than any other iOS device before, and the iPad Pro is […]",
+    "ogImage": "https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2015-12-21-145348.jpeg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 15900,
+    "reliability": 300,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 70,
+      "inTitle": true,
+      "inDescription": true
+    }, {
+      "word": "siri",
+      "reliability": 75,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000057"
+  }, {
+    "weight": 4500,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ipad",
+      "reliability": 50,
+      "count": 56,
+      "inTitle": false,
+      "inDescription": true
+    }, {
+      "word": "iphone",
+      "reliability": 50,
+      "count": 33,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipod",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }, {
+    "weight": 750,
+    "reliability": 50,
+    "label": {
+      "en": "Safari",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "safari",
+      "reliability": 50,
+      "count": 15,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000113"
+  }],
+  "numPins": 0,
+  "id": "567fa513da33a7af31f624bc"
+}, {
+  "title": "Apple Watch Users Discover Another Way to Go ‘Hands Free’",
+  "description": "Apple Watch fans find the nose can be useful when hands are dirty or otherwise occupied—they just ignore the funny looks.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "http://si.wsj.net/public/resources/images/BN-LV993_NOSEWA_G_20151225152807.jpg",
+  "publishedAt": "2015-12-26T11:13:33.000Z",
+  "createdAt": "2015-12-26T23:45: 06.537 Z ",
+  "updatedAt": "2015-12-26T23:45:06.537Z",
+  "socialScore": {
+    "facebook": 1298,
+    "twitter": 0,
+    "hatebu": 2,
+    "pocket": 298,
+    "score": 1598,
+    "meta": {
+      "nextSearchTime": 1451240407705,
+      "previousScore": 1287,
+      "currentIntervalMin": 720,
+      "repeatCount": 2
+    },
+    "createdAt": "2015-12-26T23:50:04.409Z",
+    "updatedAt": "2015-12-27T06:20:07.705Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.wsj.com",
+    "importedAt": "2015-12-26T23:45:06.537Z",
+    "canonicalUrl": "http://www.wsj.com/articles/nosy-apple-watch-users-discover-another-way-to-go-hands-free-1451077454",
+    "ogUrl": "http://www.wsj.com/articles/nosy-apple-watch-users-discover-another-way-to-go-hands-free-1451077454",
+    "ogTitle": "Apple Watch Users Discover Another Way to Go ‘Hands Free’",
+    "ogDescription": "Apple Watch fans find the nose can be useful when hands are dirty or otherwise occupied—they just ignore the funny looks.",
+    "ogImage": "http://si.wsj.net/public/resources/images/BN-LV993_NOSEWA_G_20151225152807.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 2550,
+    "reliability": 300,
+    "label": {
+      "en": "Wearable",
+      "ja": "ウェアラブル"
+    },
+    "keywords": [{
+      "word": "apple watch",
+      "reliability": 75,
+      "count": 11,
+      "inTitle": true,
+      "inDescription": true
+    }, {
+      "word": "smartwatch",
+      "reliability": 75,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000134"
+  }, {
+    "weight": 200,
+    "reliability": 100,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 3,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }, {
+    "weight": 22,
+    "reliability": 21,
+    "label": {
+      "en": "CSS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "stylus",
+      "reliability": 20,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "less",
+      "reliability": 1,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000017"
+  }],
+  "numPins": 0,
+  "id": "567f26834ddbff8c550995de"
+}, {
+  "title": "Techno-skeptics’ objection growing louder",
+  "description": "In the new Machine Age, they fight the tech establishment, saying human needs are getting lost in the digital revolution.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/11/25/Health-Environment-Science/Images/Otto_Jaron_Lanier_0414483965871448495832.jpg",
+  "publishedAt": "2015-12-27T01:37:47.000Z",
+  "createdAt": "2015-12-27T02:45:07.768Z",
+  "updatedAt": "2015-12-27T02:45:07.768Z",
+  "socialScore": {
+    "facebook": 1219,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 353,
+    "score": 1572,
+    "meta": {
+      "nextSearchTime": 1451251208858,
+      "previousScore": 412,
+      "currentIntervalMin": 720,
+      "repeatCount": 2
+    },
+    "createdAt": "2015-12-27T02:50:05.282Z",
+    "updatedAt": "2015-12-27T09:20:08.858Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.washingtonpost.com",
+    "importedAt": "2015-12-27T02:45:07.768Z",
+    "canonicalUrl": "https://www.washingtonpost.com/classic-apps/techno-skeptics-objection-growing-louder/2015/12/26/e83cf658-617a-11e5-8e9e-dce8a2a2a679_story.html",
+    "ogUrl": "https://www.washingtonpost.com/classic-apps/techno-skeptics-objection-growing-louder/2015/12/26/e83cf658-617a-11e5-8e9e-dce8a2a2a679_story.html",
+    "ogTitle": "Techno-skeptics’ objection growing louder",
+    "ogDescription": "In the new Machine Age, they fight the tech establishment, saying human needs are getting lost in the digital revolution.",
+    "ogImage": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/11/25/Health-Environment-Science/Images/Otto_Jaron_Lanier_0414483965871448495832.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 100,
+    "reliability": 100,
+    "label": {
+      "en": "Robotics",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "robots",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "robot",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000110"
+  }, {
+    "weight": 100,
+    "reliability": 50,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }, {
+    "weight": 30,
+    "reliability": 5,
+    "label": {
+      "en": "Go (programming language)",
+      "ja": "Go言語"
+    },
+    "keywords": [{
+      "word": "go",
+      "reliability": 5,
+      "count": 6,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000042"
+  }],
+  "numPins": 0,
+  "id": "567f50b4a47f670577690479"
+}, {
+  "title": "How Apple stays on top of the tech world",
+  "description": "In a lot of ways, Apple is the new Microsoft.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "http://static2.businessinsider.com/image/552c1afa6da8115606ba5f96-1190-625/how-apple-stays-on-top-of-the-tech-world.jpg",
+  "publishedAt": "2015-12-26T22:35:11.000Z",
+  "createdAt": "2015-12-26T22:45:06.125Z",
+  "updatedAt": "2015-12-26T22:45:06.125Z",
+  "socialScore": {
+    "facebook": 476,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 113,
+    "score": 589,
+    "meta": {
+      "nextSearchTime": 1451236809008,
+      "previousScore": 87,
+      "currentIntervalMin": 720,
+      "repeatCount": 2
+    },
+    "createdAt": "2015-12-26T22:50:04.826Z",
+    "updatedAt": "2015-12-27T05:20:09.008Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.businessinsider.com",
+    "importedAt": "2015-12-26T22:45:06.125Z",
+    "canonicalUrl": "http://www.businessinsider.com/apple-is-the-new-microsoft-2015-12",
+    "ogUrl": "http://www.businessinsider.com/apple-is-the-new-microsoft-2015-12",
+    "ogTitle": "How Apple stays on top of the tech world",
+    "ogDescription": "In a lot of ways, Apple is the new Microsoft.",
+    "ogImage": "http://static2.businessinsider.com/image/552c1afa6da8115606ba5f96-1190-625/how-apple-stays-on-top-of-the-tech-world.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 1000,
+    "reliability": 100,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 17,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 3,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }, {
+    "weight": 275,
+    "reliability": 75,
+    "label": {
+      "en": "Windows",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "windows",
+      "reliability": 25,
+      "count": 9,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "windows 10",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000140"
+  }, {
+    "weight": 150,
+    "reliability": 75,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000057"
+  }],
+  "numPins": 0,
+  "id": "567f187316f1f3604ac938a4"
+}, {
+  "title": "Prevent iOS from Resizing Background Wallpapers with a Screenshot",
+  "description": "When you try to use a small picture for your background on iOS, it automatically zooms in and resizes the image. It’s annoying if you’re trying to use a non-portrait image. OS X Daily has a simple workaround.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "https://i.kinja-img.com/gawker-media/image/upload/s--a8-geBY---/c_fill,fl_progressive,g_north,h_358,q_80,w_636/nsjupa4dga6ws1tranqb.jpg",
+  "publishedAt": "2015-12-26T22:00:00.000Z",
+  "createdAt": "2015-12-26T22:45:06.657Z",
+  "updatedAt": "2015-12-26T22:45:06.657Z",
+  "socialScore": {
+    "facebook": 34,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 504,
+    "score": 538,
+    "meta": {
+      "nextSearchTime": 1451236808838,
+      "previousScore": 473,
+      "currentIntervalMin": 720,
+      "repeatCount": 2
+    },
+    "createdAt": "2015-12-26T22:50:04.789Z",
+    "updatedAt": "2015-12-27T05:20:08.838Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "lifehacker.com",
+    "importedAt": "2015-12-26T22:45:06.657Z",
+    "canonicalUrl": "http://lifehacker.com/prevent-ios-from-resizing-background-wallpapers-with-a-1749604080",
+    "ogUrl": "http://lifehacker.com/prevent-ios-from-resizing-background-wallpapers-with-a-1749604080",
+    "ogTitle": "Prevent iOS from Resizing Background Wallpapers with a Screenshot",
+    "ogDescription": "When you try to use a small picture for your background on iOS, it automatically zooms in and resizes the image. It’s annoying if you’re trying to use a non-portrait image. OS X Daily has a simple workaround.",
+    "ogImage": "https://i.kinja-img.com/gawker-media/image/upload/s--a8-geBY---/c_fill,fl_progressive,g_north,h_358,q_80,w_636/nsjupa4dga6ws1tranqb.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 675,
+    "reliability": 225,
+    "label": {
+      "en": "iOS",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ios",
+      "reliability": 75,
+      "count": 3,
+      "inTitle": true,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000057"
+  }, {
+    "weight": 225,
+    "reliability": 75,
+    "label": {
+      "en": "Mac",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "os x",
+      "reliability": 75,
+      "count": 3,
+      "inTitle": false,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000071"
+  }, {
+    "weight": 100,
+    "reliability": 100,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567f187316f1f3604ac938a3"
+}, {
+  "title": "The 10 best iPad apps of 2015",
+  "description": "Whether Santa brought you a iPad Pro, or you're simply looking to refresh the lineup on your current tablet, here's a look at some of our favorite apps.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "http://rack.1.mshcdn.com/media/ZgkyMDE1LzEyLzI2L2Y5L0lwYWRIZWFkZXIuZGE2NzguanBnCnAJdGh1bWIJMTIwMHg2MjcjCmUJanBn/b49498a1/245/Ipad-Header.jpg",
+  "publishedAt": "2015-12-26T15:00:14.000Z",
+  "createdAt": "2015-12-26T16:45:06.636Z",
+  "updatedAt": "2015-12-26T16:45:06.636Z",
+  "socialScore": {
+    "facebook": 183,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 147,
+    "score": 330,
+    "meta": {
+      "nextSearchTime": 1451303406160,
+      "previousScore": 212,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T16:50:08.247Z",
+    "updatedAt": "2015-12-27T11:50:06.160Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "mashable.com",
+    "importedAt": "2015-12-26T16:45:06.636Z",
+    "canonicalUrl": "http://mashable.com/2015/12/26/best-ipad-apps-2015/",
+    "ogUrl": "http://mashable.com/2015/12/26/best-ipad-apps-2015/",
+    "ogTitle": "The 10 best iPad apps of 2015",
+    "ogDescription": "Whether Santa brought you a iPad Pro, or you're simply looking to refresh the lineup on your current tablet, here's a look at some of our favorite apps.",
+    "ogImage": "http://rack.1.mshcdn.com/media/ZgkyMDE1LzEyLzI2L2Y5L0lwYWRIZWFkZXIuZGE2NzguanBnCnAJdGh1bWIJMTIwMHg2MjcjCmUJanBn/b49498a1/245/Ipad-Header.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 800,
+    "reliability": 200,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "ipad",
+      "reliability": 50,
+      "count": 5,
+      "inTitle": true,
+      "inDescription": true
+    }, {
+      "word": "iphone",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567ec4138513cdd30592037a"
+}, {
+  "title": "FitBit is the top app in the App Store, and that could be a bad sign for the Apple Watch",
+  "description": "A lot of people got FitBits for Christmas.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "http://static6.businessinsider.com/image/567eadfddd0895e2248b47b2-1190-625/fitbit-is-the-top-app-in-the-app-store-and-that-could-be-a-bad-sign-for-the-apple-watch.jpg",
+  "publishedAt": "2015-12-26T14:57:00.000Z",
+  "createdAt": "2015-12-26T16:45:06.219Z",
+  "updatedAt": "2015-12-26T16:45:06.219Z",
+  "socialScore": {
+    "facebook": 149,
+    "twitter": 0,
+    "hatebu": 0,
+    "pocket": 7,
+    "score": 156,
+    "meta": {
+      "nextSearchTime": 1451303406231,
+      "previousScore": 119,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T16:50:08.838Z",
+    "updatedAt": "2015-12-27T11:50:06.231Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "www.techinsider.io",
+    "importedAt": "2015-12-26T16:45:06.219Z",
+    "canonicalUrl": "http://www.techinsider.io/fitbit-top-app-in-app-store-2015-12",
+    "ogUrl": "http://www.businessinsider.com/fitbit-top-app-in-app-store-2015-12",
+    "ogTitle": "FitBit is the top app in the App Store, and that could be a bad sign for the Apple Watch",
+    "ogDescription": "A lot of people got FitBits for Christmas.",
+    "ogImage": "http://static6.businessinsider.com/image/567eadfddd0895e2248b47b2-1190-625/fitbit-is-the-top-app-in-the-app-store-and-that-could-be-a-bad-sign-for-the-apple-watch.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 2700,
+    "reliability": 225,
+    "label": {
+      "en": "Wearable",
+      "ja": "ウェアラブル"
+    },
+    "keywords": [{
+      "word": "apple watch",
+      "reliability": 75,
+      "count": 12,
+      "inTitle": true,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000134"
+  }, {
+    "weight": 100,
+    "reliability": 50,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 2,
+      "inTitle": false,
+      "inDescription": false
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567ec4138513cdd30592037d"
+}, {
+  "title": "MUJO on the App Store",
+  "description": "Read reviews, compare customer ratings, see screenshots and learn more about MUJO. Download MUJO and enjoy it on your iPhone, iPad and iPod touch.",
+  "lang": "en",
+  "type": 0,
+  "thumbnailUrl": "http://is1.mzstatic.com/image/thumb/Purple69/v4/a0/9b/81/a09b8198-e964-e075-ab22-b5cd2c98666f/source /1200x630bf.jpg",
+  "publishedAt": "2015-12-26T18:29:31.000Z",
+  "createdAt": "2015-12-26T18:45:06.841Z",
+  "updatedAt": "2015-12-26T18:45:06.841Z",
+  "socialScore": {
+    "facebook": 4,
+    "twitter": 0,
+    "hatebu": 2,
+    "pocket": 1,
+    "score": 7,
+    "meta": {
+      "nextSearchTime": 1451310607601,
+      "previousScore": 7,
+      "currentIntervalMin": 1440,
+      "repeatCount": 3
+    },
+    "createdAt": "2015-12-26T18:50:04.938Z",
+    "updatedAt": "2015-12-27T13:50:07.601Z"
+  },
+  "score": {
+    "total": null,
+    "populationRatio": null
+  },
+  "importedInfo": {
+    "domain": "itunes.apple.com",
+    "importedAt": "2015-12-26T18:45:06.841Z",
+    "canonicalUrl": "https://itunes.apple.com/nz/app/mujo/id882416288?mt=8",
+    "ogUrl": null,
+    "ogTitle": "MUJO on the App Store",
+    "ogDescription": "Read reviews, compare customer ratings, see screenshots and learn more about MUJO. Download MUJO and enjoy it on your iPhone, iPad and iPod touch.",
+    "ogImage": "http://is1.mzstatic.com/image/thumb/Purple69/v4/a0/9b/81/a09b8198-e964-e075-ab22-b5cd2c98666f/source/1200x630bf.jpg",
+    "creatorId": null,
+    "creatorName": null,
+    "creatorDisplayName": null,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  "channels": [{
+    "weight": 150,
+    "reliability": 150,
+    "label": {
+      "en": "iPhone / iPad",
+      "ja": ""
+    },
+    "keywords": [{
+      "word": "iphone",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": true
+    }, {
+      "word": "ipad",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": true
+    }, {
+      "word": "ipod",
+      "reliability": 50,
+      "count": 1,
+      "inTitle": false,
+      "inDescription": true
+    }],
+    "id": "000000000000000000000156"
+  }],
+  "numPins": 0,
+  "id": "567ee03337d4d3901b219924"
+}]

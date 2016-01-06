@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/css/swiper.css">
+</head>
+<body>
+  <header id="main-header">
+    <a class="btn" id="nav-drawer" data-touch href="#"><i class="fa fa-bars"></i></a>
+    <h1>TECHFEED</h1>
+    <a class="btn" data-touch href="#"><i class="fa fa-th-list"></i><span></span></a>
+  </header>
+  
+  <div class="feed-area">
+  
+
+    <div class="swiper-container gallery-top">
+      <div class="swiper-pagination">
+        <div><i class="fa fa-sun-o"></i></div>
+        <div><i class="fa fa-cloud"></i></div>
+        <div><i class="fa fa-moon-o"></i></div>
+      </div>
+
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="timeline-wrapper">
+                  
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <h1>タイトル</h1>
+                <article>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                </article>
+            </div>
+
+            <div class="swiper-slide">
+                <h1>タイトル</h1>
+                <article>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, alias dolorum voluptate ipsum illum mollitia deleniti, at corporis quae delectus maiores nemo. Eaque tenetur, nulla quidem consequatur aperiam. Enim, nobis!
+                </article>
+            </div>
+        </div>
+    </div>
+  </div>
+  
+
+
+
+    <footer id="main-footer">
+      <nav>
+        <ul>
+          <li>
+            <a class="btn" data-touch href="#"><i class="fa fa-th"></i><span>ダイジェスト</span></a>
+          </li>
+          <li>
+            <a class="btn" data-touch href="#"><i class="fa fa-clock-o"></i><span>リアルタイム</span></a>
+          </li>
+          <li>
+            <a class="btn" data-touch href="#"><i class="fa fa-bookmark"></i><span>あとで読む</span></a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
+
+    <div id="side-nav">
+      <div id="user-settings">
+        <div class="hello">
+          <div class="hello_user_wrap">
+            <p class="hello-name">Hi, Dear <strong>Hidetaro7 </strong>
+            <a class="usersetting" href="#"><i class="fa fa-gear"></i><span>設定</span></a></p>
+            <p class="gradseeyou">How do you do ?</p>
+          </div>
+        </div>
+        <a class="btn close" href="#"><i class="fa fa-close"></i><span>とじる</span></a>
+      </div>
+      <section class="side-topic-wrapper">
+        <h1>トピック<span><label><input checked name="topic_select" type="radio">すべて</label><label><input name="topic_select" type="radio">フォロー中</label></span></h1>
+        <div class="topic_list"></div>
+        <!-- <div class="side-footer">
+          <input type="text" class="search-topic">
+        </div> -->
+      </section>
+      
+    </div>
+
+  <script src="./assets/js/swiper.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+        /*pagination: '.swiper-pagination',
+        paginationClickable: true,
+        paginationBulletRender: function (index, className) {
+            return '<span class="">' + (index + 1) + '</span>';
+        }*/
+    });
+    $("[data-touch]").on("touchstart", function () {
+        $(this).addClass("touch")
+    })
+    $("[data-touch]").on("touchend", function () {
+        $(this).removeClass("touch")
+    })
+
+    App.sideNav_setHeight()
+    App.load_topic()
+    App.toggle_topic()
+    App.nav_drower()
+    App.load_ranking()
+    </script>
+</body>
+</html>

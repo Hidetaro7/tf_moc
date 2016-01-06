@@ -1,0 +1,3259 @@
+[
+  {
+    "id": 0,
+    "label": {
+      "en": "Trend",
+      "ja": "トレンド"
+    },
+    "recommendAllFollow": true,
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "channelIds": [
+      {
+        "id": "000000000000000000000058",
+        "commonet": "IoT"
+      },
+      {
+        "id": "000000000000000000000072",
+        "commonet": "Machine Learning"
+      },
+      {
+        "id": "000000000000000000000024",
+        "commonet": "Docker"
+      },
+      {
+        "id": "000000000000000000000134",
+        "commonet": "Wearable"
+      },
+      {
+        "id": "000000000000000000000004",
+        "commonet": "AI"
+      },
+      {
+        "id": "000000000000000000000020",
+        "commonet": "Deep Learning"
+      },
+      {
+        "id": "000000000000000000000110",
+        "commonet": "Robotics"
+      },
+      {
+        "id": "000000000000000000000150",
+        "commonet": "Virtual Reality"
+      },
+      {
+        "id": "000000000000000000000025",
+        "commonet": "Drone"
+      },
+      {
+        "id": "000000000000000000000154",
+        "commonet": "React.js"
+      },
+      {
+        "id": "000000000000000000000149",
+        "commonet": "3D Printer"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "IoT",
+          "ja": "",
+          "displayText": "IoT"
+        },
+        "numFollowers": 8,
+        "numEntries": 2022,
+        "id": "000000000000000000000058",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Machine Learning",
+          "ja": "機械学習",
+          "displayText": "機械学習（Machine Learning）"
+        },
+        "numFollowers": 7,
+        "numEntries": 1120,
+        "id": "000000000000000000000072",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Docker",
+          "ja": "",
+          "displayText": "Docker"
+        },
+        "numFollowers": 8,
+        "numEntries": 912,
+        "id": "000000000000000000000024",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Wearable",
+          "ja": "ウェアラブル",
+          "displayText": "ウェアラブル（Wearable）"
+        },
+        "numFollowers": 4,
+        "numEntries": 953,
+        "id": "000000000000000000000134",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "AI",
+          "ja": "人工知能",
+          "displayText": "人工知能（AI）"
+        },
+        "numFollowers": 7,
+        "numEntries": 901,
+        "id": "000000000000000000000004",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Deep Learning",
+          "ja": "深層学習",
+          "displayText": "深層学習（Deep Learning）"
+        },
+        "numFollowers": 3,
+        "numEntries": 694,
+        "id": "000000000000000000000020",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Robotics",
+          "ja": "",
+          "displayText": "Robotics"
+        },
+        "numFollowers": 8,
+        "numEntries": 908,
+        "id": "000000000000000000000110",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Virtual Reality",
+          "ja": "",
+          "displayText": "Virtual Reality"
+        },
+        "numFollowers": 7,
+        "numEntries": 1053,
+        "id": "000000000000000000000150",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Drone",
+          "ja": "ドローン",
+          "displayText": "ドローン（Drone）"
+        },
+        "numFollowers": 7,
+        "numEntries": 726,
+        "id": "000000000000000000000025",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "React.js",
+          "ja": "",
+          "displayText": "React.js"
+        },
+        "numFollowers": 3,
+        "numEntries": 859,
+        "id": "000000000000000000000154",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "3D Printer",
+          "ja": "3Dプリンタ",
+          "displayText": "3Dプリンタ（3D Printer）"
+        },
+        "numFollowers": 7,
+        "numEntries": 250,
+        "id": "000000000000000000000149",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 1,
+    "label": {
+      "en": "UX / Web Design",
+      "ja": "UX / Webデザイン"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "recommendAllFollow": true,
+    "channelIds": [
+      {
+        "id": "000000000000000000000017",
+        "commonet": "CSS"
+      },
+      {
+        "id": "000000000000000000000051",
+        "commonet": "HTML"
+      },
+      {
+        "id": "000000000000000000000034",
+        "commonet": "Firefox"
+      },
+      {
+        "id": "000000000000000000000044",
+        "commonet": "Google Chrome"
+      },
+      {
+        "id": "000000000000000000000065",
+        "commonet": "jQuery"
+      },
+      {
+        "id": "000000000000000000000143",
+        "commonet": "WordPress"
+      },
+      {
+        "id": "000000000000000000000035",
+        "commonet": "Fonts"
+      },
+      {
+        "id": "000000000000000000000055",
+        "commonet": "IE / Microsoft Edge"
+      },
+      {
+        "id": "000000000000000000000113",
+        "commonet": "Safari"
+      },
+      {
+        "id": "000000000000000000000126",
+        "commonet": "SVG"
+      },
+      {
+        "id": "000000000000000000000019",
+        "commonet": "Data Visualization"
+      },
+      {
+        "id": "000000000000000000000131",
+        "commonet": "UX Design"
+      },
+      {
+        "id": "000000000000000000000073",
+        "commonet": "Material Design"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "CSS",
+          "ja": "",
+          "displayText": "CSS"
+        },
+        "numFollowers": 5,
+        "numEntries": 3384,
+        "id": "000000000000000000000017",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "HTML",
+          "ja": "",
+          "displayText": "HTML"
+        },
+        "numFollowers": 5,
+        "numEntries": 1656,
+        "id": "000000000000000000000051",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Firefox",
+          "ja": "",
+          "displayText": "Firefox"
+        },
+        "numFollowers": 5,
+        "numEntries": 986,
+        "id": "000000000000000000000034",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Google Chrome",
+          "ja": "",
+          "displayText": "Google Chrome"
+        },
+        "numFollowers": 4,
+        "numEntries": 956,
+        "id": "000000000000000000000044",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "jQuery",
+          "ja": "",
+          "displayText": "jQuery"
+        },
+        "numFollowers": 4,
+        "numEntries": 731,
+        "id": "000000000000000000000065",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "WordPress",
+          "ja": "",
+          "displayText": "WordPress"
+        },
+        "numFollowers": 3,
+        "numEntries": 693,
+        "id": "000000000000000000000143",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Fonts",
+          "ja": "フォント",
+          "displayText": "フォント（Fonts）"
+        },
+        "numFollowers": 4,
+        "numEntries": 792,
+        "id": "000000000000000000000035",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "IE / Microsoft Edge",
+          "ja": "",
+          "displayText": "IE / Microsoft Edge"
+        },
+        "numFollowers": 5,
+        "numEntries": 459,
+        "id": "000000000000000000000055",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Safari",
+          "ja": "",
+          "displayText": "Safari"
+        },
+        "numFollowers": 5,
+        "numEntries": 295,
+        "id": "000000000000000000000113",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "SVG",
+          "ja": "",
+          "displayText": "SVG"
+        },
+        "numFollowers": 4,
+        "numEntries": 257,
+        "id": "000000000000000000000126",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Data Visualization",
+          "ja": "ビジュアライゼーション",
+          "displayText": "ビジュアライゼーション（Data Visualization）"
+        },
+        "numFollowers": 4,
+        "numEntries": 313,
+        "id": "000000000000000000000019",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "UX Design",
+          "ja": "UXデザイン",
+          "displayText": "UXデザイン（UX Design）"
+        },
+        "numFollowers": 5,
+        "numEntries": 372,
+        "id": "000000000000000000000131",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Material Design",
+          "ja": "",
+          "displayText": "Material Design"
+        },
+        "numFollowers": 5,
+        "numEntries": 90,
+        "id": "000000000000000000000073",
+        "followed": true
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 2,
+    "label": {
+      "en": "Web Frontend",
+      "ja": "Webフロントエンド"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "recommendAllFollow": true,
+    "channelIds": [
+      {
+        "id": "000000000000000000000062",
+        "commonet": "JavaScript"
+      },
+      {
+        "id": "000000000000000000000017",
+        "commonet": "CSS"
+      },
+      {
+        "id": "000000000000000000000051",
+        "commonet": "HTML"
+      },
+      {
+        "id": "000000000000000000000034",
+        "commonet": "Firefox"
+      },
+      {
+        "id": "000000000000000000000088",
+        "commonet": "Node.js"
+      },
+      {
+        "id": "000000000000000000000044",
+        "commonet": "Google Chrome"
+      },
+      {
+        "id": "000000000000000000000065",
+        "commonet": "jQuery"
+      },
+      {
+        "id": "000000000000000000000035",
+        "commonet": "Fonts"
+      },
+      {
+        "id": "000000000000000000000055",
+        "commonet": "IE / Microsoft Edge"
+      },
+      {
+        "id": "000000000000000000000113",
+        "commonet": "Safari"
+      },
+      {
+        "id": "000000000000000000000118",
+        "commonet": "SEO"
+      },
+      {
+        "id": "000000000000000000000155",
+        "commonet": "AngularJS"
+      },
+      {
+        "id": "000000000000000000000126",
+        "commonet": "SVG"
+      },
+      {
+        "id": "000000000000000000000138",
+        "commonet": "WebRTC"
+      },
+      {
+        "id": "000000000000000000000019",
+        "commonet": "Data Visualization"
+      },
+      {
+        "id": "000000000000000000000053",
+        "commonet": "Hybrid Mobile App"
+      },
+      {
+        "id": "000000000000000000000131",
+        "commonet": "UX Design"
+      },
+      {
+        "id": "000000000000000000000154",
+        "commonet": "React.js"
+      },
+      {
+        "id": "000000000000000000000139",
+        "commonet": "WebSocket"
+      },
+      {
+        "id": "000000000000000000000101",
+        "commonet": "Polymer"
+      },
+      {
+        "id": "000000000000000000000027",
+        "commonet": "Electron"
+      },
+      {
+        "id": "000000000000000000000157",
+        "commonet": "HTML5"
+      },
+      {
+        "id": "000000000000000000000073",
+        "commonet": "Material Design"
+      },
+      {
+        "id": "000000000000000000000163",
+        "commonet": "AltJS"
+      },
+      {
+        "id": "000000000000000000000152",
+        "commonet": "Gulp"
+      },
+      {
+        "id": "000000000000000000000117",
+        "commonet": "Selenium"
+      },
+      {
+        "id": "000000000000000000000151",
+        "commonet": "Grunt"
+      },
+      {
+        "id": "000000000000000000000167",
+        "commonet": "Web Performance"
+      },
+      {
+        "id": "000000000000000000000165",
+        "commonet": "Web Accessibility"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "JavaScript",
+          "ja": "",
+          "displayText": "JavaScript"
+        },
+        "numFollowers": 3,
+        "numEntries": 5003,
+        "id": "000000000000000000000062",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "CSS",
+          "ja": "",
+          "displayText": "CSS"
+        },
+        "numFollowers": 5,
+        "numEntries": 3384,
+        "id": "000000000000000000000017",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "HTML",
+          "ja": "",
+          "displayText": "HTML"
+        },
+        "numFollowers": 5,
+        "numEntries": 1656,
+        "id": "000000000000000000000051",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Firefox",
+          "ja": "",
+          "displayText": "Firefox"
+        },
+        "numFollowers": 5,
+        "numEntries": 986,
+        "id": "000000000000000000000034",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Node.js",
+          "ja": "",
+          "displayText": "Node.js"
+        },
+        "numFollowers": 3,
+        "numEntries": 1341,
+        "id": "000000000000000000000088",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Google Chrome",
+          "ja": "",
+          "displayText": "Google Chrome"
+        },
+        "numFollowers": 4,
+        "numEntries": 956,
+        "id": "000000000000000000000044",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "jQuery",
+          "ja": "",
+          "displayText": "jQuery"
+        },
+        "numFollowers": 4,
+        "numEntries": 731,
+        "id": "000000000000000000000065",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Fonts",
+          "ja": "フォント",
+          "displayText": "フォント（Fonts）"
+        },
+        "numFollowers": 4,
+        "numEntries": 792,
+        "id": "000000000000000000000035",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "IE / Microsoft Edge",
+          "ja": "",
+          "displayText": "IE / Microsoft Edge"
+        },
+        "numFollowers": 5,
+        "numEntries": 459,
+        "id": "000000000000000000000055",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Safari",
+          "ja": "",
+          "displayText": "Safari"
+        },
+        "numFollowers": 5,
+        "numEntries": 295,
+        "id": "000000000000000000000113",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "SEO",
+          "ja": "検索エンジン最適化",
+          "displayText": "検索エンジン最適化（SEO）"
+        },
+        "numFollowers": 2,
+        "numEntries": 436,
+        "id": "000000000000000000000118",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "AngularJS",
+          "ja": "",
+          "displayText": "AngularJS"
+        },
+        "numFollowers": 1,
+        "numEntries": 702,
+        "id": "000000000000000000000155",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "SVG",
+          "ja": "",
+          "displayText": "SVG"
+        },
+        "numFollowers": 4,
+        "numEntries": 257,
+        "id": "000000000000000000000126",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "WebRTC",
+          "ja": "",
+          "displayText": "WebRTC"
+        },
+        "numFollowers": 2,
+        "numEntries": 107,
+        "id": "000000000000000000000138",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Data Visualization",
+          "ja": "ビジュアライゼーション",
+          "displayText": "ビジュアライゼーション（Data Visualization）"
+        },
+        "numFollowers": 4,
+        "numEntries": 313,
+        "id": "000000000000000000000019",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Hybrid Mobile App",
+          "ja": "ハイブリッドアプリ",
+          "displayText": "ハイブリッドアプリ（Hybrid Mobile App）"
+        },
+        "numFollowers": 3,
+        "numEntries": 184,
+        "id": "000000000000000000000053",
+        "followed": true
+      },
+      {
+        "label": {
+"en": "UX Design",
+          "ja": "UXデザイン",
+          "displayText": "UXデザイン（UX Design）"
+        },
+        "numFollowers": 5,
+        "numEntries": 372,
+        "id": "000000000000000000000131",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "React.js",
+          "ja": "",
+          "displayText": "React.js"
+        },
+        "numFollowers": 3,
+        "numEntries": 859,
+        "id": "000000000000000000000154",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "WebSocket",
+          "ja": "",
+          "displayText": "WebSocket"
+        },
+        "numFollowers": 2,
+        "numEntries": 110,
+        "id": "000000000000000000000139",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Polymer",
+          "ja": "",
+          "displayText": "Polymer"
+        },
+        "numFollowers": 3,
+        "numEntries": 101,
+        "id": "000000000000000000000101",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Electron",
+          "ja": "",
+          "displayText": "Electron"
+        },
+        "numFollowers": 2,
+        "numEntries": 181,
+        "id": "000000000000000000000027",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "HTML5",
+          "ja": "",
+          "displayText": "HTML5"
+        },
+        "numFollowers": 2,
+        "numEntries": 596,
+        "id": "000000000000000000000157",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Material Design",
+          "ja": "",
+          "displayText": "Material Design"
+        },
+        "numFollowers": 5,
+        "numEntries": 90,
+        "id": "000000000000000000000073",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "AltJS",
+          "ja": "",
+          "displayText": "AltJS"
+        },
+        "numFollowers": 0,
+        "numEntries": 277,
+        "id": "000000000000000000000163",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Gulp",
+          "ja": "",
+          "displayText": "Gulp"
+        },
+        "numFollowers": 2,
+        "numEntries": 148,
+        "id": "000000000000000000000152",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Selenium",
+          "ja": "",
+          "displayText": "Selenium"
+        },
+        "numFollowers": 0,
+        "numEntries": 51,
+        "id": "000000000000000000000117",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Grunt",
+          "ja": "",
+          "displayText": "Grunt"
+        },
+        "numFollowers": 2,
+        "numEntries": 95,
+        "id": "000000000000000000000151",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Web Performance",
+          "ja": "",
+          "displayText": "Web Performance"
+        },
+        "numFollowers": 2,
+        "numEntries": 70,
+        "id": "000000000000000000000167",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Web Accessibility",
+          "ja": "",
+          "displayText": "Web Accessibility"
+        },
+        "numFollowers": 2,
+        "numEntries": 42,
+        "id": "000000000000000000000165",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 3,
+    "label": {
+      "en": "Mobile",
+      "ja": "モバイルアプリ開発"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "channelIds": [
+      {
+        "id": "000000000000000000000006",
+        "commonet": "Android"
+      },
+      {
+        "id": "000000000000000000000057",
+        "commonet": "iOS"
+      },
+      {
+        "id": "000000000000000000000156",
+        "commonet": "iPhone/iPad"
+      },
+      {
+        "id": "000000000000000000000026",
+        "commonet": "Eclipse"
+      },
+      {
+        "id": "000000000000000000000134",
+        "commonet": "Wearable"
+      },
+      {
+        "id": "000000000000000000000145",
+        "commonet": "Xcode"
+      },
+      {
+        "id": "000000000000000000000053",
+        "commonet": "Hybrid Mobile App"
+      },
+      {
+        "id": "000000000000000000000127",
+        "commonet": "Swift"
+      },
+      {
+        "id": "000000000000000000000131",
+        "commonet": "UX Design"
+      },
+      {
+        "id": "000000000000000000000142",
+        "commonet": "Windows Phone"
+      },
+      {
+        "id": "000000000000000000000144",
+        "commonet": "Xamarin"
+      },
+      {
+        "id": "000000000000000000000073",
+        "commonet": "Material Design"
+      },
+      {
+        "id": "000000000000000000000123",
+        "commonet": "SQLite"
+      },
+      {
+        "id": "000000000000000000000161",
+        "commonet": "Image Processing"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "Android",
+          "ja": "",
+          "displayText": "Android"
+        },
+        "numFollowers": 3,
+        "numEntries": 3558,
+        "id": "000000000000000000000006",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "iOS",
+          "ja": "",
+          "displayText": "iOS"
+        },
+        "numFollowers": 3,
+        "numEntries": 3228,
+        "id": "000000000000000000000057",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "iPhone / iPad",
+          "ja": "",
+          "displayText": "iPhone / iPad"
+        },
+        "numFollowers": 2,
+        "numEntries": 3606,
+        "id": "000000000000000000000156",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Eclipse",
+          "ja": "",
+          "displayText": "Eclipse"
+        },
+        "numFollowers": 1,
+        "numEntries": 540,
+        "id": "000000000000000000000026",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Wearable",
+          "ja": "ウェアラブル",
+          "displayText": "ウェアラブル（Wearable）"
+        },
+        "numFollowers": 4,
+        "numEntries": 953,
+        "id": "000000000000000000000134",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Xcode",
+          "ja": "",
+          "displayText": "Xcode"
+        },
+        "numFollowers": 1,
+        "numEntries": 413,
+        "id": "000000000000000000000145",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Hybrid Mobile App",
+          "ja": "ハイブリッドアプリ",
+          "displayText": "ハイブリッドアプリ（Hybrid Mobile App）"
+        },
+        "numFollowers": 3,
+        "numEntries": 184,
+        "id": "000000000000000000000053",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Swift",
+          "ja": "",
+          "displayText": "Swift"
+        },
+        "numFollowers": 2,
+        "numEntries": 664,
+        "id": "000000000000000000000127",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "UX Design",
+          "ja": "UXデザイン",
+          "displayText": "UXデザイン（UX Design）"
+        },
+        "numFollowers": 5,
+        "numEntries": 372,
+        "id": "000000000000000000000131",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Windows Phone",
+          "ja": "",
+          "displayText": "Windows Phone"
+        },
+        "numFollowers": 2,
+        "numEntries": 182,
+        "id": "000000000000000000000142",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Xamarin",
+          "ja": "",
+          "displayText": "Xamarin"
+        },
+        "numFollowers": 1,
+        "numEntries": 97,
+        "id": "000000000000000000000144",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Material Design",
+          "ja": "",
+          "displayText": "Material Design"
+        },
+        "numFollowers": 5,
+        "numEntries": 90,
+        "id": "000000000000000000000073",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "SQLite",
+          "ja": "",
+          "displayText": "SQLite"
+        },
+        "numFollowers": 0,
+        "numEntries":
+87,
+        "id": "000000000000000000000123",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Image Processing",
+          "ja": "画像処理",
+          "displayText": "画像処理（Image Processing）"
+        },
+        "numFollowers": 1,
+        "numEntries": 102,
+        "id": "000000000000000000000161",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 4,
+    "label": {
+      "en": "Cloud / Database",
+      "ja": "クラウド / データベース"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "channelIds": [
+      {
+        "id": "000000000000000000000005",
+        "commonet": "Amazon Web Services"
+      },
+      {
+        "id": "000000000000000000000024",
+        "commonet": "Docker"
+      },
+      {
+        "id": "000000000000000000000083",
+        "commonet": "MySQL"
+      },
+      {
+        "id": "000000000000000000000122",
+        "commonet": "SQL"
+      },
+      {
+        "id": "000000000000000000000045",
+        "commonet": "Google Cloud Platform"
+      },
+      {
+        "id": "000000000000000000000096",
+        "commonet": "Oracle"
+      },
+      {
+        "id": "000000000000000000000081",
+        "commonet": "MongoDB"
+      },
+      {
+        "id": "000000000000000000000023",
+        "commonet": "Distributed Computing"
+      },
+      {
+        "id": "000000000000000000000037",
+        "commonet": "Fulltext Search"
+      },
+      {
+        "id": "000000000000000000000087",
+        "commonet": "Nginx"
+      },
+      {
+        "id": "000000000000000000000007",
+        "commonet": "Apache HTTP Server"
+      },
+      {
+        "id": "000000000000000000000162",
+        "commonet": "X as a Service"
+      },
+      {
+        "id": "000000000000000000000069",
+        "commonet": "Logging"
+      },
+      {
+        "id": "000000000000000000000050",
+        "commonet": "Heroku"
+      },
+      {
+        "id": "000000000000000000000102",
+        "commonet": "PostgreSQL"
+      },
+      {
+        "id": "000000000000000000000107",
+        "commonet": "Redis"
+      },
+      {
+        "id": "000000000000000000000158",
+        "commonet": "Software Design"
+      },
+      {
+        "id": "000000000000000000000013",
+        "commonet": "Cassandra"
+      },
+      {
+        "id": "000000000000000000000123",
+        "commonet": "SQLite"
+      },
+      {
+        "id": "000000000000000000000166",
+        "commonet": "Microsoft Azure"
+      },
+      {
+        "id": "000000000000000000000080",
+        "commonet": "Microsoft SQL Server"
+      },
+      {
+        "id": "000000000000000000000084",
+        "commonet": "Neo4j"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "Amazon Web Services",
+          "ja": "",
+          "displayText": "Amazon Web Services"
+        },
+        "numFollowers": 2,
+        "numEntries": 1524,
+        "id": "000000000000000000000005",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Docker",
+          "ja": "",
+          "displayText": "Docker"
+        },
+        "numFollowers": 8,
+        "numEntries": 912,
+        "id": "000000000000000000000024",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "MySQL",
+          "ja": "",
+          "displayText": "MySQL"
+        },
+        "numFollowers": 3,
+        "numEntries": 610,
+        "id": "000000000000000000000083",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "SQL",
+          "ja": "",
+          "displayText": "SQL"
+        },
+        "numFollowers": 2,
+        "numEntries": 472,
+        "id": "000000000000000000000122",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Google Cloud Platform",
+          "ja": "",
+          "displayText": "Google Cloud Platform"
+        },
+        "numFollowers": 2,
+        "numEntries": 278,
+        "id": "000000000000000000000045",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Oracle",
+          "ja": "",
+          "displayText": "Oracle"
+        },
+        "numFollowers": 1,
+        "numEntries": 345,
+        "id": "000000000000000000000096",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "MongoDB",
+          "ja": "",
+          "displayText": "MongoDB"
+        },
+        "numFollowers": 2,
+        "numEntries": 240,
+        "id": "000000000000000000000081",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Distributed Computing",
+          "ja": "分散処理",
+          "displayText": "分散処理（Distributed Computing）"
+        },
+        "numFollowers": 5,
+        "numEntries": 258,
+        "id": "000000000000000000000023",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Fulltext Search",
+          "ja": "全文検索",
+          "displayText": "全文検索（Fulltext Search）"
+        },
+        "numFollowers": 1,
+        "numEntries": 235,
+        "id": "000000000000000000000037",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Nginx",
+          "ja": "",
+          "displayText": "Nginx"
+        },
+        "numFollowers": 2,
+        "numEntries": 267,
+        "id": "000000000000000000000087",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Apache HTTP Server",
+          "ja": "",
+          "displayText": "Apache HTTP Server"
+        },
+        "numFollowers": 2,
+        "numEntries": 198,
+        "id": "000000000000000000000007",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "X as a Service",
+          "ja": "",
+          "displayText": "X as a Service"
+        },
+        "numFollowers": 1,
+        "numEntries": 544,
+        "id": "000000000000000000000162",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Logging",
+          "ja": "",
+          "displayText": "Logging"
+        },
+        "numFollowers": 1,
+        "numEntries": 211,
+        "id": "000000000000000000000069",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Heroku",
+          "ja": "",
+          "displayText": "Heroku"
+        },
+        "numFollowers": 2,
+        "numEntries": 186,
+        "id": "000000000000000000000050",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "PostgreSQL",
+          "ja": "",
+          "displayText": "PostgreSQL"
+        },
+        "numFollowers": 1,
+        "numEntries": 149,
+        "id": "000000000000000000000102",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Redis",
+          "ja": "",
+          "displayText": "Redis"
+        },
+        "numFollowers": 1,
+        "numEntries": 115,
+        "id": "000000000000000000000107",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Software Design",
+          "ja": "ソフトウェアデザイン",
+          "displayText": "ソフトウェアデザイン（Software Design）"
+        },
+        "numFollowers": 1,
+        "numEntries": 452,
+        "id": "000000000000000000000158",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Cassandra",
+          "ja": "",
+          "displayText": "Cassandra"
+        },
+        "numFollowers": 2,
+        "numEntries": 50,
+        "id": "000000000000000000000013",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "SQLite",
+          "ja": "",
+          "displayText": "SQLite"
+        },
+        "numFollowers": 0,
+        "numEntries": 87,
+        "id": "000000000000000000000123",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Microsoft Azure",
+          "ja": "",
+          "displayText": "Microsoft Azure"
+        },
+        "numFollowers": 1,
+        "numEntries": 236,
+        "id": "000000000000000000000166",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Microsoft SQL Server",
+          "ja": "",
+          "displayText": "Microsoft SQL Server"
+        },
+        "numFollowers": 1,
+        "numEntries": 97,
+        "id": "000000000000000000000080",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Neo4j",
+          "ja": "",
+          "displayText": "Neo4j"
+        },
+        "numFollowers": 1,
+        "numEntries": 16,
+        "id": "000000000000000000000084",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 5,
+    "label": {
+      "en": "Infra / Network",
+      "ja": "インフラ / ネットワーク"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "channelIds": [
+      {
+        "id": "000000000000000000000067",
+        "commonet": "Linux"
+      },
+      {
+        "id": "000000000000000000000116",
+        "commonet": "Security"
+      },
+      {
+        "id": "000000000000000000000005",
+        "commonet": "Amazon Web Services"
+      },
+      {
+        "id": "000000000000000000000086",
+        "commonet": "Network"
+      },
+      {
+        "id": "000000000000000000000024",
+        "commonet": "Docker"
+      },
+      {
+        "id": "000000000000000000000083",
+        "commonet": "MySQL"
+      },
+      {
+        "id": "000000000000000000000124",
+        "commonet": "Storage"
+      },
+      {
+        "id": "000000000000000000000052",
+        "commonet": "HTTP"
+      },
+      {
+        "id": "000000000000000000000082",
+        "commonet": "Server Monitoring"
+      },
+      {
+        "id": "000000000000000000000119",
+        "commonet": "Shell"
+      },
+      {
+        "id": "000000000000000000000045",
+        "commonet": "Google Cloud Platform"
+      },
+      {
+        "id": "000000000000000000000103",
+        "commonet": "Provisioning"
+      },
+      {
+        "id": "000000000000000000000087",
+        "commonet": "Nginx"
+      },
+      {
+        "id": "000000000000000000000007",
+        "commonet": "Apache HTTP Server"
+      },
+      {
+        "id": "000000000000000000000162",
+        "commonet": "X as a Service"
+      },
+      {
+        "id": "000000000000000000000069",
+        "commonet": "Logging"
+      },
+      {
+        "id": "000000000000000000000050",
+        "commonet": "Heroku"
+      },
+      {
+        "id": "000000000000000000000166",
+        "commonet": "Microsoft Azure"
+      },
+      {
+        "id": "000000000000000000000001",
+        "commonet": "Active Directory"
+      },
+      {
+        "id": "000000000000000000000115",
+        "commonet": "SDN"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "Linux",
+          "ja": "",
+          "displayText": "Linux"
+        },
+        "numFollowers": 2,
+        "numEntries": 2597,
+        "id": "000000000000000000000067",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Security",
+          "ja": "セキュリティ",
+          "displayText": "セキュリティ（Security）"
+        },
+        "numFollowers": 1,
+        "numEntries": 3907,
+        "id": "000000000000000000000116",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Amazon Web Services",
+          "ja": "",
+          "displayText": "Amazon Web Services"
+        },
+        "numFollowers": 2,
+        "numEntries": 1524,
+        "id": "000000000000000000000005",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Network",
+          "ja": "ネットワーク",
+          "displayText": "ネットワーク（Network）"
+        },
+        "numFollowers": 2,
+        "numEntries": 2078,
+        "id": "000000000000000000000086",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Docker",
+          "ja": "",
+          "displayText": "Docker"
+        },
+        "numFollowers": 8,
+        "numEntries": 912,
+        "id": "000000000000000000000024",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "MySQL",
+          "ja": "",
+          "displayText": "MySQL"
+        },
+        "numFollowers": 3,
+        "numEntries": 610,
+        "id": "000000000000000000000083",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Storage",
+          "ja": "ストレージ",
+          "displayText": "ストレージ（Storage）"
+        },
+        "numFollowers": 1,
+        "numEntries": 808,
+        "id": "000000000000000000000124",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "HTTP",
+          "ja": "",
+          "displayText": "HTTP"
+        },
+        "numFollowers": 2,
+        "numEntries": 965,
+        "id": "000000000000000000000052",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Server Monitoring",
+          "ja": "サーバー監視",
+          "displayText": "サーバー監視（Server Monitoring）"
+        },
+        "numFollowers": 1,
+        "numEntries": 242,
+        "id": "000000000000000000000082",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Shell",
+          "ja": "シェル",
+          "displayText": "シェル（Shell）"
+        },
+        "numFollowers": 1,
+        "numEntries": 448,
+        "id": "000000000000000000000119",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Google Cloud Platform",
+          "ja": "",
+          "displayText": "Google Cloud Platform"
+        },
+        "numFollowers": 2,
+        "numEntries": 278,
+        "id": "000000000000000000000045",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Provisioning",
+          "ja": "プロビジョニング",
+          "displayText": "プロビジョニング（Provisioning）"
+        },
+        "numFollowers": 1,
+        "numEntries": 364,
+        "id": "000000000000000000000103",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Nginx",
+          "ja": "",
+          "displayText": "Nginx"
+        },
+        "numFollowers": 2,
+        "numEntries": 267,
+        "id": "000000000000000000000087",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Apache HTTP Server",
+          "ja": "",
+          "displayText": "Apache HTTP Server"
+        },
+        "numFollowers": 2,
+        "numEntries": 198,
+        "id": "000000000000000000000007",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "X as a Service",
+          "ja": "",
+          "displayText": "X as a Service"
+        },
+        "numFollowers": 1,
+        "numEntries": 544,
+        "id": "000000000000000000000162",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Logging",
+          "ja": "",
+          "displayText": "Logging"
+        },
+        "numFollowers": 1,
+        "numEntries": 211,
+        "id": "000000000000000000000069",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Heroku",
+          "ja": "",
+          "displayText": "Heroku"
+        },
+        "numFollowers": 2,
+        "numEntries": 186,
+        "id": "000000000000000000000050",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Microsoft Azure",
+          "ja": "",
+          "displayText": "Microsoft Azure"
+        },
+        "numFollowers": 1,
+        "numEntries": 236,
+        "id": "000000000000000000000166",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Active Directory",
+          "ja": "",
+          "displayText": "Active Directory"
+        },
+        "numFollowers": 0,
+        "numEntries": 44,
+        "id": "000000000000000000000001",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "SDN",
+          "ja": "",
+          "displayText": "SDN"
+        },
+        "numFollowers": 1,
+        "numEntries": 44,
+        "id": "000000000000000000000115",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 6,
+    "label": {
+      "en": "Programming",
+      "ja": "プログラミング"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "channelIds": [
+      {
+        "id": "000000000000000000000062",
+        "commonet": "JavaScript"
+      },
+      {
+        "id": "000000000000000000000061",
+        "commonet": "Java"
+      },
+      {
+        "id": "000000000000000000000088",
+        "commonet": "Node.js"
+      },
+      {
+        "id": "000000000000000000000026",
+        "commonet": "Eclipse"
+      },
+      {
+        "id": "000000000000000000000041",
+        "commonet": "GitHub"
+      },
+      {
+        "id": "000000000000000000000104",
+        "commonet": "Python"
+      },
+      {
+        "id": "000000000000000000000012",
+        "commonet": "C++"
+      },
+      {
+        "id": "000000000000000000000100",
+        "commonet": "PHP"
+      },
+      {
+        "id": "000000000000000000000111",
+        "commonet": "Ruby"
+      },
+      {
+        "id": "000000000000000000000040",
+        "commonet": "Git"
+      },
+      {
+        "id": "000000000000000000000122",
+        "commonet": "SQL"
+      },
+      {
+        "id": "000000000000000000000011",
+        "commonet": "C#"
+      },
+      {
+        "id": "000000000000000000000042",
+        "commonet": "Go (programming language)"
+      },
+      {
+        "id": "000000000000000000000112",
+        "commonet": "Ruby on Rails"
+      },
+      {
+        "id": "000000000000000000000145",
+        "commonet": "Xcode"
+      },
+      {
+        "id": "000000000000000000000133",
+        "commonet": "Visual Studio"
+      },
+      {
+        "id": "000000000000000000000127",
+        "commonet": "Swift"
+      },
+      {
+        "id": "000000000000000000000099",
+        "commonet": "Perl"
+      },
+      {
+        "id": "000000000000000000000010",
+        "commonet": "C (programming language)"
+      },
+      {
+        "id": "000000000000000000000038",
+        "commonet": "Functional Programming"
+      },
+      {
+        "id": "000000000000000000000049",
+        "commonet": "Haskell"
+      },
+      {
+        "id": "000000000000000000000114",
+        "commonet": "Scala"
+      },
+      {
+        "id": "000000000000000000000120",
+        "commonet": "Software testing"
+      },
+      {
+        "id": "000000000000000000000030",
+        "commonet": "Erlang"
+      },
+      {
+        "id": "000000000000000000000121",
+        "commonet": "Spring Framework"
+      },
+      {
+        "id": "000000000000000000000028",
+        "commonet": "Elixir"
+      },
+      {
+        "id": "000000000000000000000106",
+        "commonet": "Reactive Programming"
+      },
+      {
+        "id": "000000000000000000000144",
+        "commonet": "Xamarin"
+      },
+      {
+        "id": "000000000000000000000160",
+        "commonet": "3D Programming"
+      },
+      {
+        "id": "000000000000000000000068",
+        "commonet": "Lisp"
+      },
+      {
+        "id": "000000000000000000000048",
+        "commonet": "Groovy"
+      },
+      {
+        "id": "000000000000000000000157",
+        "commonet": "HTML5"
+      },
+      {
+        "id": "000000000000000000000158",
+        "commonet": "Software Design"
+      },
+      {
+        "id": "000000000000000000000089",
+        "commonet": "Object Oriented Programming"
+      },
+      {
+        "id": "000000000000000000000032",
+        "commonet": "F#"
+      },
+      {
+        "id": "000000000000000000000070",
+        "commonet": "Lua"
+      },
+      {
+        "id": "000000000000000000000163",
+        "commonet": "AltJS"
+      },
+      {
+        "id": "000000000000000000000054",
+        "commonet": "IntelliJ IDEA"
+      },
+      {
+        "id": "000000000000000000000056",
+        "commonet": "IIS"
+      },
+      {
+        "id": "000000000000000000000125",
+        "commonet": "Subversion"
+      },
+      {
+        "id": "000000000000000000000091",
+        "commonet": "OCaml"
+      },
+      {
+        "id": "000000000000000000000161",
+        "commonet": "Image Processing"
+      },
+      {
+        "id": "000000000000000000000014",
+        "commonet": "Clojure"
+      },
+      {
+        "id": "000000000000000000000153",
+        "commonet": "Gradle"
+      },
+      {
+        "id": "000000000000000000000090",
+        "commonet": "Objective C"
+      },
+      {
+        "id": "000000000000000000000077",
+        "commonet": "Mercurial"
+      },
+      {
+        "id": "000000000000000000000105",
+        "commonet": "R (programming language)"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "JavaScript",
+          "ja": "",
+          "displayText": "JavaScript"
+        },
+        "numFollowers": 3,
+        "numEntries": 5003,
+        "id": "000000000000000000000062",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Java",
+          "ja": "",
+          "displayText": "Java"
+        },
+        "numFollowers": 1,
+        "numEntries": 2473,
+        "id": "000000000000000000000061",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Node.js",
+          "ja": "",
+          "displayText": "Node.js"
+        },
+        "numFollowers": 3,
+        "numEntries": 1341,
+        "id": "000000000000000000000088",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Eclipse",
+          "ja": "",
+          "displayText": "Eclipse"
+        },
+        "numFollowers": 1,
+        "numEntries": 540,
+        "id": "000000000000000000000026",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "GitHub",
+          "ja": "",
+          "displayText": "GitHub"
+        },
+        "numFollowers": 2,
+        "numEntries": 1275,
+        "id": "000000000000000000000041",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Python",
+          "ja": "",
+          "displayText": "Python"
+        },
+        "numFollowers": 1,
+        "numEntries": 1544,
+        "id": "000000000000000000000104",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "C++",
+          "ja": "",
+          "displayText": "C++"
+        },
+        "numFollowers": 1,
+        "numEntries": 812,
+        "id": "000000000000000000000012",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "PHP",
+          "ja": "",
+          "displayText": "PHP"
+        },
+        "numFollowers": 1,
+        "numEntries": 1167,
+        "id": "000000000000000000000100",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Ruby",
+          "ja": "",
+          "displayText": "Ruby"
+        },
+        "numFollowers": 1,
+        "numEntries": 1196,
+        "id": "000000000000000000000111",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Git",
+          "ja": "",
+          "displayText": "Git"
+        },
+        "numFollowers": 2,
+        "numEntries": 629,
+        "id": "000000000000000000000040",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "SQL",
+          "ja": "",
+          "displayText": "SQL"
+        },
+        "numFollowers": 2,
+        "numEntries": 472,
+        "id": "000000000000000000000122",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "C#",
+          "ja": "",
+          "displayText": "C#"
+        },
+        "numFollowers": 1,
+        "numEntries": 453,
+        "id": "000000000000000000000011",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Go (programming language)",
+          "ja": "Go言語",
+          "displayText": "Go言語（Go (programming language)）"
+        },
+        "numFollowers": 1,
+        "numEntries": 1811,
+        "id": "000000000000000000000042",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Ruby on Rails",
+          "ja": "",
+          "displayText": "Ruby on Rails"
+        },
+        "numFollowers": 2,
+        "numEntries": 645,
+        "id": "000000000000000000000112",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Xcode",
+          "ja": "",
+          "displayText": "Xcode"
+        },
+        "numFollowers": 1,
+        "numEntries": 413,
+        "id": "000000000000000000000145",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Visual Studio",
+          "ja": "",
+          "displayText": "Visual Studio"
+        },
+        "numFollowers": 1,
+        "numEntries": 310,
+        "id": "000000000000000000000133",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Swift",
+          "ja": "",
+          "displayText": "Swift"
+        },
+        "numFollowers": 2,
+        "numEntries": 664,
+        "id": "000000000000000000000127",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Perl",
+          "ja": "",
+          "displayText": "Perl"
+        },
+        "numFollowers": 1,
+        "numEntries": 223,
+        "id": "000000000000000000000099",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "C (programming language)",
+          "ja": "C言語",
+          "displayText": "C言語（C (programming language)）"
+        },
+        "numFollowers": 1,
+        "numEntries": 246,
+        "id": "000000000000000000000010",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Functional Programming",
+          "ja": "関数型プログラミング",
+          "displayText": "関数型プログラミング（Functional Programming）"
+        },
+        "numFollowers": 0,
+        "numEntries": 200,
+        "id": "000000000000000000000038",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Haskell",
+          "ja": "",
+          "displayText": "Haskell"
+        },
+        "numFollowers": 1,
+        "numEntries": 239,
+        "id": "000000000000000000000049",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Scala",
+          "ja": "",
+          "displayText": "Scala"
+        },
+        "numFollowers": 0,
+        "numEntries": 222,
+        "id": "000000000000000000000114",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Software testing",
+          "ja": "ソフトウェアテスト",
+          "displayText": "ソフトウェアテスト（Software testing）"
+        },
+        "numFollowers": 1,
+        "numEntries": 677,
+        "id": "000000000000000000000120",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Erlang",
+          "ja": "",
+          "displayText": "Erlang"
+        },
+        "numFollowers": 1,
+        "numEntries": 138,
+        "id": "000000000000000000000030",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Spring Framework",
+          "ja": "",
+          "displayText": "Spring Framework"
+        },
+        "numFollowers": 0,
+        "numEntries": 143,
+        "id": "000000000000000000000121",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Elixir",
+          "ja": "",
+          "displayText": "Elixir"
+        },
+        "numFollowers": 0,
+        "numEntries": 132,
+        "id": "000000000000000000000028",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Reactive Programming",
+          "ja": "リアクティブプログラミング",
+          "displayText": "リアクティブプログラミング（Reactive Programming）"
+        },
+        "numFollowers": 0,
+        "numEntries": 216,
+        "id": "000000000000000000000106",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Xamarin",
+          "ja": "",
+          "displayText": "Xamarin"
+        },
+        "numFollowers": 1,
+        "numEntries": 97,
+        "id": "000000000000000000000144",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "3D Programming",
+          "ja": "3Dプログラミング",
+          "displayText": "3Dプログラミング（3D Programming）"
+        },
+        "numFollowers": 5,
+        "numEntries": 793,
+        "id": "000000000000000000000160",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Lisp",
+          "ja": "",
+          "displayText": "Lisp"
+        },
+        "numFollowers": 1,
+        "numEntries": 115,
+        "id": "000000000000000000000068",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Groovy",
+          "ja": "",
+          "displayText": "Groovy"
+        },
+        "numFollowers": 0,
+        "numEntries": 70,
+        "id": "000000000000000000000048",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "HTML5",
+          "ja": "",
+          "displayText": "HTML5"
+        },
+        "numFollowers": 2,
+        "numEntries": 596,
+        "id": "000000000000000000000157",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Software Design",
+          "ja": "ソフトウェアデザイン",
+          "displayText": "ソフトウェアデザイン（Software Design）"
+        },
+        "numFollowers": 1,
+        "numEntries": 452,
+        "id": "000000000000000000000158",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Object Oriented Programming",
+          "ja": "オブジェクト指向プログラミング",
+          "displayText": "オブジェクト指向プログラミング（Object Oriented Programming）"
+        },
+        "numFollowers": 1,
+        "numEntries": 54,
+        "id": "000000000000000000000089",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "F#",
+          "ja": "",
+          "displayText": "F#"
+        },
+        "numFollowers": 0,
+        "numEntries": 34,
+        "id": "000000000000000000000032",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Lua",
+          "ja": "",
+          "displayText": "Lua"
+        },
+        "numFollowers": 0,
+        "numEntries": 63,
+        "id": "000000000000000000000070",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "AltJS",
+          "ja": "",
+          "displayText": "AltJS"
+        },
+        "numFollowers": 0,
+        "numEntries": 277,
+        "id": "000000000000000000000163",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "IntelliJ IDEA",
+          "ja": "",
+          "displayText": "IntelliJ IDEA"
+        },
+        "numFollowers": 0,
+        "numEntries": 66,
+        "id": "000000000000000000000054",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "IIS",
+          "ja": "",
+          "displayText": "IIS"
+        },
+        "numFollowers": 0,
+        "numEntries": 26,
+        "id": "000000000000000000000056",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Subversion",
+          "ja": "",
+          "displayText": "Subversion"
+        },
+        "numFollowers": 1,
+        "numEntries": 43,
+        "id": "000000000000000000000125",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "OCaml",
+          "ja": "",
+          "displayText": "OCaml"
+        },
+        "numFollowers": 0,
+        "numEntries": 29,
+        "id": "000000000000000000000091",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Image Processing",
+          "ja": "画像処理",
+          "displayText": "画像処理（Image Processing）"
+        },
+        "numFollowers": 1,
+        "numEntries": 102,
+        "id": "000000000000000000000161",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Clojure",
+          "ja": "",
+          "displayText": "Clojure"
+        },
+        "numFollowers": 0,
+        "numEntries": 69,
+        "id": "000000000000000000000014",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Gradle",
+          "ja": "",
+          "displayText": "Gradle"
+        },
+        "numFollowers": 0,
+        "numEntries": 125,
+        "id": "000000000000000000000153",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Objective C",
+          "ja": "",
+          "displayText": "Objective C"
+        },
+        "numFollowers": 1,
+        "numEntries": 6,
+        "id": "000000000000000000000090",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Mercurial",
+          "ja": "",
+          "displayText": "Mercurial"
+        },
+        "numFollowers": 0,
+        "numEntries": 13,
+        "id": "000000000000000000000077",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "R (programming language)",
+          "ja": "R言語",
+          "displayText": "R言語（R (programming language)）"
+        },
+        "numFollowers": 0,
+        "numEntries": 20,
+        "id": "000000000000000000000105",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 7,
+    "label": {
+      "en": "DevOps",
+      "ja": "DevOps"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "recommendAllFollow": true,
+    "channelIds": [
+      {
+        "id": "000000000000000000000041",
+        "commonet": "GitHub"
+      },
+      {
+        "id": "000000000000000000000024",
+        "commonet": "Docker"
+      },
+      {
+        "id": "000000000000000000000082",
+        "commonet": "Server Monitoring"
+      },
+      {
+        "id": "000000000000000000000119",
+        "commonet": "Shell"
+      },
+      {
+        "id": "000000000000000000000016",
+        "commonet": "Continuous Integration"
+      },
+      {
+        "id": "000000000000000000000103",
+        "commonet": "Provisioning"
+      },
+      {
+        "id": "000000000000000000000120",
+        "commonet": "Software testing"
+      },
+      {
+        "id": "000000000000000000000069",
+        "commonet": "Logging"
+      },
+      {
+        "id": "000000000000000000000164",
+        "commonet": "Access analysis"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "GitHub",
+          "ja": "",
+          "displayText": "GitHub"
+        },
+        "numFollowers": 2,
+        "numEntries": 1275,
+        "id": "000000000000000000000041",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Docker",
+          "ja": "",
+          "displayText": "Docker"
+        },
+        "numFollowers": 8,
+        "numEntries": 912,
+        "id": "000000000000000000000024",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Server Monitoring",
+          "ja": "サーバー監視",
+          "displayText": "サーバー監視（Server Monitoring）"
+        },
+        "numFollowers": 1,
+        "numEntries": 242,
+        "id": "000000000000000000000082",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Shell",
+          "ja": "シェル",
+          "displayText": "シェル（Shell）"
+        },
+        "numFollowers": 1,
+        "numEntries": 448,
+        "id": "000000000000000000000119",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Continuous Integration",
+          "ja": "継続的インテグレーション",
+          "displayText": "継続的インテグレーション（Continuous Integration）"
+        },
+        "numFollowers": 1,
+        "numEntries": 342,
+        "id": "000000000000000000000016",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Provisioning",
+          "ja": "プロビジョニング",
+          "displayText": "プロビジョニング（Provisioning）"
+        },
+        "numFollowers": 1,
+        "numEntries": 364,
+        "id": "000000000000000000000103",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Software testing",
+          "ja": "ソフトウェアテスト",
+          "displayText": "ソフトウェアテスト（Software testing）"
+        },
+        "numFollowers": 1,
+        "numEntries": 677,
+        "id": "000000000000000000000120",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Logging",
+          "ja": "",
+          "displayText": "Logging"
+        },
+        "numFollowers": 1,
+        "numEntries": 211,
+        "id": "000000000000000000000069",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Access analysis",
+          "ja": "アクセス解析",
+          "displayText": "アクセス解析（Access analysis）"
+        },
+        "numFollowers": 2,
+        "numEntries": 243,
+        "id": "000000000000000000000164",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 8,
+    "label": {
+      "en": "IoT / Maker",
+      "ja": "IoT / Maker"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "recommendAllFollow": true,
+    "channelIds": [
+      {
+        "id": "000000000000000000000058",
+        "commonet": "IoT"
+      },
+      {
+        "id": "000000000000000000000134",
+        "commonet": "Wearable"
+      },
+      {
+        "id": "000000000000000000000110",
+        "commonet": "Robotics"
+      },
+      {
+        "id": "000000000000000000000025",
+        "commonet": "Drone"
+      },
+      {
+        "id": "000000000000000000000149",
+        "commonet": "3D Printer"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "IoT",
+          "ja": "",
+          "displayText": "IoT"
+        },
+        "numFollowers": 8,
+        "numEntries": 2022,
+        "id": "000000000000000000000058",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Wearable",
+          "ja": "ウェアラブル",
+          "displayText": "ウェアラブル（Wearable）"
+        },
+        "numFollowers": 4,
+        "numEntries": 953,
+        "id": "000000000000000000000134",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Robotics",
+          "ja": "",
+          "displayText": "Robotics"
+        },
+        "numFollowers": 8,
+        "numEntries": 908,
+        "id": "000000000000000000000110",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Drone",
+          "ja": "ドローン",
+          "displayText": "ドローン（Drone）"
+        },
+        "numFollowers": 7,
+        "numEntries": 726,
+        "id": "000000000000000000000025",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "3D Printer",
+          "ja": "3Dプリンタ",
+          "displayText": "3Dプリンタ（3D Printer）"
+        },
+        "numFollowers": 7,
+        "numEntries": 250,
+        "id": "000000000000000000000149",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 9,
+    "label": {
+      "en": "AI / Machine Learning",
+      "ja": "AI / 機械学習"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "recommendAllFollow": true,
+    "channelIds": [
+      {
+        "id": "000000000000000000000072",
+        "commonet": "Machine Learning"
+      },
+      {
+        "id": "000000000000000000000004",
+        "commonet": "AI"
+      },
+      {
+        "id": "000000000000000000000020",
+        "commonet": "Deep Learning"
+      },
+      {
+        "id": "000000000000000000000110",
+        "commonet": "Robotics"
+      },
+      {
+        "id": "000000000000000000000074",
+        "commonet": "MATLAB"
+      },
+      {
+        "id": "000000000000000000000105",
+        "commonet": "R (programming language)"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "Machine Learning",
+          "ja": "機械学習",
+          "displayText": "機械学習（Machine Learning）"
+        },
+        "numFollowers": 7,
+        "numEntries": 1120,
+        "id": "000000000000000000000072",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "AI",
+          "ja": "人工知能",
+          "displayText": "人工知能（AI）"
+        },
+        "numFollowers": 7,
+        "numEntries": 901,
+        "id": "000000000000000000000004",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Deep Learning",
+          "ja": "深層学習",
+          "displayText": "深層学習（Deep Learning）"
+        },
+        "numFollowers": 3,
+        "numEntries": 694,
+        "id": "000000000000000000000020",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Robotics",
+          "ja": "",
+          "displayText": "Robotics"
+        },
+        "numFollowers": 8,
+        "numEntries": 908,
+        "id": "000000000000000000000110",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "MATLAB",
+          "ja": "",
+          "displayText": "MATLAB"
+        },
+        "numFollowers": 0,
+        "numEntries": 38,
+        "id": "000000000000000000000074",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "R (programming language)",
+          "ja": "R言語",
+          "displayText": "R言語（R (programming language)）"
+        },
+        "numFollowers": 0,
+        "numEntries": 20,
+        "id": "000000000000000000000105",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 10,
+    "label": {
+      "en": "Device / Gadget",
+      "ja": "デバイス / ガジェット"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "channelIds": [
+      {
+        "id": "000000000000000000000006",
+        "commonet": "Android"
+      },
+      {
+        "id": "000000000000000000000058",
+        "commonet": "IoT"
+      },
+      {
+        "id": "000000000000000000000071",
+        "commonet": "Mac"
+      },
+      {
+        "id": "000000000000000000000156",
+        "commonet": "iPhone/iPad"
+      },
+      {
+        "id": "000000000000000000000134",
+        "commonet": "Wearable"
+      },
+      {
+        "id": "000000000000000000000110",
+        "commonet": "Robotics"
+      },
+      {
+        "id": "000000000000000000000150",
+        "commonet": "Virtual Reality"
+      },
+      {
+        "id": "000000000000000000000008",
+        "commonet": "BlackBerry"
+      },
+      {
+        "id": "000000000000000000000141",
+        "commonet": "Surface"
+      },
+      {
+        "id": "000000000000000000000025",
+        "commonet": "Drone"
+      },
+      {
+        "id": "000000000000000000000142",
+        "commonet": "Windows Phone"
+      },
+      {
+        "id": "000000000000000000000149",
+        "commonet": "3D Printer"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "Android",
+          "ja": "",
+          "displayText": "Android"
+        },
+        "numFollowers": 3,
+        "numEntries": 3558,
+        "id": "000000000000000000000006",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "IoT",
+          "ja": "",
+          "displayText": "IoT"
+        },
+        "numFollowers": 8,
+        "numEntries": 2022,
+        "id": "000000000000000000000058",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Mac",
+          "ja": "",
+          "displayText": "Mac"
+        },
+        "numFollowers": 2,
+        "numEntries": 2092,
+        "id": "000000000000000000000071",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "iPhone / iPad",
+          "ja": "",
+          "displayText": "iPhone / iPad"
+        },
+        "numFollowers": 2,
+        "numEntries": 3606,
+        "id": "000000000000000000000156",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Wearable",
+          "ja": "ウェアラブル",
+          "displayText": "ウェアラブル（Wearable）"
+        },
+        "numFollowers": 4,
+        "numEntries": 953,
+        "id": "000000000000000000000134",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Robotics",
+          "ja": "",
+          "displayText": "Robotics"
+        },
+        "numFollowers": 8,
+        "numEntries": 908,
+        "id": "000000000000000000000110",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Virtual Reality",
+          "ja": "",
+          "displayText": "Virtual Reality"
+        },
+        "numFollowers": 7,
+        "numEntries": 1053,
+        "id": "000000000000000000000150",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "BlackBerry",
+          "ja": "",
+          "displayText": "BlackBerry"
+        },
+        "numFollowers": 1,
+        "numEntries": 255,
+        "id": "000000000000000000000008",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Surface",
+          "ja": "",
+          "displayText": "Surface"
+        },
+        "numFollowers": 0,
+        "numEntries": 284,
+        "id": "000000000000000000000141",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Drone",
+          "ja": "ドローン",
+          "displayText": "ドローン（Drone）"
+        },
+        "numFollowers": 7,
+        "numEntries": 726,
+        "id": "000000000000000000000025",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Windows Phone",
+          "ja": "",
+          "displayText": "Windows Phone"
+        },
+        "numFollowers": 2,
+        "numEntries": 182,
+        "id": "000000000000000000000142",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "3D Printer",
+          "ja": "3Dプリンタ",
+          "displayText": "3Dプリンタ（3D Printer）"
+        },
+        "numFollowers": 7,
+        "numEntries": 250,
+        "id": "000000000000000000000149",
+        "followed": false
+      }
+    ],
+    "followed": false
+  },
+  {
+    "id": 11,
+    "label": {
+      "en": "Editor / Other",
+      "ja": "エディタ / その他"
+    },
+    "description": {
+      "en": "",
+      "ja": ""
+    },
+    "channelIds": [
+      {
+        "id": "000000000000000000000140",
+        "commonet": "Windows Development"
+      },
+      {
+        "id": "000000000000000000000071",
+        "commonet": "Mac"
+      },
+      {
+        "id": "000000000000000000000147",
+        "commonet": "Youtube"
+      },
+      {
+        "id": "000000000000000000000143",
+        "commonet": "WordPress"
+      },
+      {
+        "id": "000000000000000000000036",
+        "commonet": "FPGA"
+      },
+      {
+        "id": "000000000000000000000003",
+        "commonet": "Adobe Flash"
+      },
+      {
+        "id": "000000000000000000000146",
+        "commonet": "XML"
+      },
+      {
+        "id": "000000000000000000000031",
+        "commonet": "Excel"
+      },
+      {
+        "id": "000000000000000000000066",
+        "commonet": "Ledger Sheets"
+      },
+      {
+        "id": "000000000000000000000029",
+        "commonet": "Emacs"
+      },
+      {
+        "id": "000000000000000000000132",
+        "commonet": "Vim"
+      },
+      {
+        "id": "000000000000000000000018",
+        "commonet": "CUDA"
+      },
+      {
+        "id": "000000000000000000000078",
+        "commonet": "Meteor"
+      },
+      {
+        "id": "000000000000000000000046",
+        "commonet": "Google Spreadsheet"
+      },
+      {
+        "id": "000000000000000000000079",
+        "commonet": "Microsoft Access"
+      }
+    ],
+    "verified": 1,
+    "channels": [
+      {
+        "label": {
+          "en": "Windows",
+          "ja": "",
+          "displayText": "Windows"
+        },
+        "numFollowers": 1,
+        "numEntries": 3019,
+        "id": "000000000000000000000140",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Mac",
+          "ja": "",
+          "displayText": "Mac"
+        },
+        "numFollowers": 2,
+        "numEntries": 2092,
+        "id": "000000000000000000000071",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Youtube",
+          "ja": "",
+          "displayText": "Youtube"
+        },
+        "numFollowers": 0,
+        "numEntries": 362,
+        "id": "000000000000000000000147",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "WordPress",
+          "ja": "",
+          "displayText": "WordPress"
+        },
+        "numFollowers": 3,
+        "numEntries": 693,
+        "id": "000000000000000000000143",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "FPGA",
+          "ja": "",
+          "displayText": "FPGA"
+        },
+        "numFollowers": 1,
+        "numEntries": 51,
+        "id": "000000000000000000000036",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Adobe Flash",
+          "ja": "",
+          "displayText": "Adobe Flash"
+        },
+        "numFollowers": 2,
+        "numEntries": 406,
+        "id": "000000000000000000000003",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "XML",
+          "ja": "",
+          "displayText": "XML"
+        },
+        "numFollowers": 0,
+        "numEntries": 440,
+        "id": "000000000000000000000146",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Excel",
+          "ja": "",
+          "displayText": "Excel"
+        },
+        "numFollowers": 0,
+        "numEntries": 276,
+        "id": "000000000000000000000031",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Ledger Sheets",
+          "ja": "帳票",
+          "displayText": "帳票（Ledger Sheets）"
+        },
+        "numFollowers": 0,
+        "numEntries": 75,
+        "id": "000000000000000000000066",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Emacs",
+          "ja": "",
+          "displayText": "Emacs"
+        },
+        "numFollowers": 1,
+        "numEntries": 175,
+        "id": "000000000000000000000029",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "Vim",
+          "ja": "",
+          "displayText": "Vim"
+        },
+        "numFollowers": 2,
+        "numEntries": 312,
+        "id": "000000000000000000000132",
+        "followed": true
+      },
+      {
+        "label": {
+          "en": "CUDA",
+          "ja": "",
+          "displayText": "CUDA"
+        },
+        "numFollowers": 1,
+        "numEntries": 54,
+        "id": "000000000000000000000018",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Meteor",
+          "ja": "",
+          "displayText": "Meteor"
+        },
+        "numFollowers": 1,
+        "numEntries": 50,
+        "id": "000000000000000000000078",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Google Spreadsheet",
+          "ja": "",
+          "displayText": "Google Spreadsheet"
+        },
+        "numFollowers": 1,
+        "numEntries": 12,
+        "id": "000000000000000000000046",
+        "followed": false
+      },
+      {
+        "label": {
+          "en": "Microsoft Access",
+          "ja": "",
+          "displayText": "Microsoft Access"
+        },
+        "numFollowers": 0,
+        "numEntries": 4,
+        "id": "000000000000000000000079",
+        "followed": false
+      }
+    ],
+    "followed": false
+  }
+]
+
